@@ -19,6 +19,8 @@ Alles, was committet wird, ist für jede*n einsehbar - auch für die Leads selbs
 - Pflicht: `hinweis` (sichtbar unter dem Einstieg: Inhalte aus öffentlich zugänglichen Daten abgeleitet) und `disclaimer` mit Quellen im Footer.
 - Sprache: "ihr/euch", gegenderte Formen (Mitarbeiter*innen), Bindestrich statt Gedankenstrich, echte Umlaute.
 - CI des Leads (Farben, Schrift) ja, Logo des Leads nein. DEC als Absender immer sichtbar. `noindex`.
+- CI immer per direktem Download ziehen (`curl` der Startseite + verlinkte CSS-Dateien, Hex- und rgb-Werte sowie `font-family` auszählen) - nicht über WebFetch, das verwirft CSS. Lizenzpflichtige Schriften durch eine ähnliche Google-Font ersetzen und das Original in `ci.font_original` vermerken.
+- Entwürfe auf Branch `draft/<slug>` pushen (nicht live). Erst nach Freigabe durch Steffen nach `main` mergen.
 
 ## Ablauf pro Lead
 

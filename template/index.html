@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex, nofollow">
 <title>{{TITLE}}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Manrope:wght@300;400;600&display=swap" rel="stylesheet">
 <style>
   /* Lead-CI: Werte kommen aus lead.json (ci). Platzhalter, bis CI verifiziert ist. */
   :root {
@@ -168,7 +168,13 @@
 
   // CI
   const r = document.documentElement.style;
-  if (L.ci) { r.setProperty('--brand', L.ci.brand); r.setProperty('--accent', L.ci.accent); }
+  if (L.ci) {
+    const dark = matchMedia('(prefers-color-scheme: dark)').matches && document.documentElement.dataset.theme !== 'light';
+    if (!dark && L.ci.brand) r.setProperty('--brand', L.ci.brand);
+    if (L.ci.accent) r.setProperty('--accent', L.ci.accent);
+    if (!dark && L.ci.bg) r.setProperty('--bg', L.ci.bg);
+    if (L.ci.font) r.setProperty('--font', `"${L.ci.font}", system-ui, sans-serif`);
+  }
   document.title = `${L.firma} - Was wird sein`;
 
   // Hero

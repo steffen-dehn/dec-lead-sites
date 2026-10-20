@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Fuchs &amp; Eule - Was wird sein</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Manrope:wght@300;400;600&display=swap" rel="stylesheet">
 <style>
   /* Lead-CI: Werte kommen aus lead.json (ci). Platzhalter, bis CI verifiziert ist. */
   :root {
@@ -164,10 +164,12 @@
     "Dr. Tobias Frese"
   ],
   "ci": {
-    "brand": "#14213D",
-    "accent": "#E8743B",
-    "font": "Poppins",
-    "verified": false
+    "brand": "#1d1c1b",
+    "accent": "#cb7e57",
+    "bg": "#f0ebe0",
+    "font": "Manrope",
+    "font_original": "PP Mori (lizenzpflichtig, ersetzt)",
+    "verified": true
   },
   "hero": {
     "kicker": "Für Robin Behlau & Dr. Tobias Frese · Oktober 2026",
@@ -311,7 +313,13 @@
 
   // CI
   const r = document.documentElement.style;
-  if (L.ci) { r.setProperty('--brand', L.ci.brand); r.setProperty('--accent', L.ci.accent); }
+  if (L.ci) {
+    const dark = matchMedia('(prefers-color-scheme: dark)').matches && document.documentElement.dataset.theme !== 'light';
+    if (!dark && L.ci.brand) r.setProperty('--brand', L.ci.brand);
+    if (L.ci.accent) r.setProperty('--accent', L.ci.accent);
+    if (!dark && L.ci.bg) r.setProperty('--bg', L.ci.bg);
+    if (L.ci.font) r.setProperty('--font', `"${L.ci.font}", system-ui, sans-serif`);
+  }
   document.title = `${L.firma} - Was wird sein`;
 
   // Hero

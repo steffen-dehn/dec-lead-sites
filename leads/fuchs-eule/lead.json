@@ -7,10 +7,12 @@
     "Dr. Tobias Frese"
   ],
   "ci": {
-    "brand": "#14213D",
-    "accent": "#E8743B",
-    "font": "Poppins",
-    "verified": false
+    "brand": "#1d1c1b",
+    "accent": "#cb7e57",
+    "bg": "#f0ebe0",
+    "font": "Manrope",
+    "font_original": "PP Mori (lizenzpflichtig, ersetzt)",
+    "verified": true
   },
   "hero": {
     "kicker": "Für Robin Behlau & Dr. Tobias Frese · Oktober 2026",
