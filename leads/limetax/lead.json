@@ -1,0 +1,146 @@
+{
+  "slug": "limetax",
+  "firma": "Limetax",
+  "stand": "Oktober 2026",
+  "empfaenger": [
+    "Christoph Gamon",
+    "Maximilian Meyer",
+    "Christoph Dansard"
+  ],
+  "ci": {
+    "brand": "#1c1818",
+    "accent": "#436fff",
+    "bg": "#fffffe",
+    "font": "Geist",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Für Christoph Gamon, Maximilian Meyer & Christoph Dansard · Oktober 2026",
+    "title": "Eine Gruppe aus vielen Handschriften.",
+    "intro": "Ihr habt 36 Mio. Euro für eure Plattform und weitere Kanzlei-Partnerschaften gesichert und seid mit über 150 Menschen an sieben Standorten unterwegs. Wir haben uns angesehen, was ihr nach außen zeigt - und vier Felder gefunden, in denen sich entscheidet, ob aus einzelnen Kanzleien eine echte Gruppe wird."
+  },
+  "muster": {
+    "title": "Was wir von außen sehen",
+    "sub": "Zwei Versprechen, die zusammengehören.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kanzleien",
+        "quelle": "limetax.de/group/limetax-gruppe",
+        "werte": [
+          "Regional verwurzelt",
+          "Als Gruppe verbunden",
+          "Eigene Handschrift",
+          "Nähe zu Mandant*innen"
+        ]
+      },
+      {
+        "titel": "Gegenüber Bewerber*innen im HQ",
+        "quelle": "limetax.de/group/karriere",
+        "werte": [
+          "Ownership",
+          "Impact",
+          "Produktmentalität",
+          "Unternehmertum",
+          "Mitten in Berlin"
+        ]
+      }
+    ],
+    "lesart": "Den Kanzleien versprecht ihr Kontinuität und Eigenständigkeit, im HQ baut ihr mit Tempo und Produktdenken eine Plattform. Beides gehört zu eurem Modell. Die Spannung entsteht an der Nahtstelle: Was zentral entschieden wird und was vor Ort bleibt, wird mit jeder neuen Kanzlei neu ausgehandelt - es sei denn, ihr klärt es einmal bewusst.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Nähe & Verwurzelung"
+      },
+      {
+        "farbe": "BLAU",
+        "label": "verlässliche Ordnung"
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Wachstum & Wirkung"
+      },
+      {
+        "farbe": "GELB",
+        "label": "vernetzte Gruppe"
+      }
+    ]
+  },
+  "handlungsfelder": [
+    {
+      "id": "nahtstelle",
+      "titel": "HQ und Kanzleien als ein System",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "In Berlin-Mitte arbeiten Unternehmer*innen, Engineers und Steuerexpert*innen an M&A, Technologie und Operations. In den Kanzleien arbeiten lokale Teams nah an ihren Mandant*innen, mit eigener Handschrift. Zwei Arbeitswelten mit unterschiedlichem Takt - verbunden über eine Plattform, die beide gemeinsam entwickeln sollen.",
+      "beleg": "Karriereseite (Teams HQ und Kanzleien), Technologie-Seite (Produktentwicklung und fachliche Praxis arbeiten eng zusammen)",
+      "erster_schritt": "Nahtstellen-Workshop HQ x Kanzleileitungen (1 Tag): Was wird zentral entschieden, was bleibt vor Ort, wer ist wofür Ansprechperson?",
+      "ergebnis_6m": "Klare Spielregeln zwischen HQ und Kanzleien. Kanzleileitungen erleben das HQ als Service, nicht als Zentrale. Weniger Abstimmungsschleifen, schnellere Entscheidungen auf beiden Seiten."
+    },
+    {
+      "id": "ki-alltag",
+      "titel": "KI im Kanzleialltag verankern",
+      "graves": {
+        "von": "BLAU",
+        "zu": "ORANGE"
+      },
+      "heute": "Eure Agenten übernehmen Recherche, Bescheidprüfung und Dokumentenverarbeitung, die fachliche Entscheidung bleibt bei den Menschen. Für Steuerfachangestellte und Bilanzbuchhalter*innen verändert sich damit der Arbeitsalltag spürbar. Ob die Plattform wirkt, entscheidet sich weniger in der Technik als in der Frage, wie Teams ihre neue Rolle annehmen.",
+      "beleg": "Technologie-Seite (Agenten, Verantwortung bleibt beim Menschen), offene Kanzlei-Stellen",
+      "erster_schritt": "Praxis-Werkstatt in einer Pilotkanzlei (2 halbe Tage): Was verändert sich in der Arbeit, welche Bedenken gibt es, was braucht das Team?",
+      "ergebnis_6m": "Kanzleiteams nutzen die Agenten aktiv und geben strukturiert Rückmeldung an die Produktentwicklung. Bedenken haben einen festen Ort, statt im Flur zu bleiben. Die Pilotkanzlei wird zum Vorbild für die nächsten."
+    },
+    {
+      "id": "integration",
+      "titel": "Jede neue Kanzlei gut ankommen lassen",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "BLAU"
+      },
+      "heute": "Ihr plant weitere Partnerschaften, ein neuer Standort ist bereits angekündigt. Jede Kanzlei bringt eigene Abläufe, Gewohnheiten und eine gewachsene Teamkultur mit. Was beim ersten Beitritt noch persönlich begleitet werden kann, braucht ab der fünften, sechsten Kanzlei einen wiederholbaren Weg.",
+      "beleg": "Gruppe-Seite (Standort folgt in Kürze), Finanzierungsmeldung September 2026 (weitere Kanzlei-Partnerschaften)",
+      "erster_schritt": "Integrations-Werkstatt mit den bestehenden Partnerkanzleien (1 Tag): Was hat beim Beitritt geholfen, was hat gefehlt, was würdet ihr neuen Kanzleien raten?",
+      "ergebnis_6m": "Ein erprobter 100-Tage-Pfad für jede neue Kanzlei. Neue Teams sind schneller arbeitsfähig, bestehende Kanzleiinhaber*innen werden zu Pat*innen für die nächsten."
+    },
+    {
+      "id": "werte",
+      "titel": "Werte, die beide Welten tragen",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Im HQ zählen Ownership, Impact und Produktmentalität. In den Kanzleien zählen Kontinuität, Nähe und fachliche Sorgfalt. Beides ist wertvoll - aber es ist noch nicht dieselbe Sprache. Mit jeder neuen Kanzlei wird die Frage wichtiger, was Limetax jenseits der Plattform zusammenhält.",
+      "beleg": "Werte auf der Karriereseite und Versprechen auf der Gruppe-Seite",
+      "erster_schritt": "Werte Check-up mit einer gemischten Gruppe aus HQ und Kanzleien: individuell, heute, zukünftig - sichtbar machen, was verbindet und wo es reibt.",
+      "ergebnis_6m": "3-4 gemeinsame Werte mit Verhaltensankern, die im HQ und vor Ort gleich verstanden werden. Sie tauchen in Onboarding, Integration und Führung auf - und machen die Gruppe auch für neue Kanzleien greifbar."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "45 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Limetax x Dehn Consulting"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von Dehn Consulting auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "limetax.de - Gruppe",
+      "url": "https://www.limetax.de/group/limetax-gruppe"
+    },
+    {
+      "titel": "limetax.de - Karriere",
+      "url": "https://www.limetax.de/group/karriere"
+    },
+    {
+      "titel": "limetax.de - Technologie",
+      "url": "https://www.limetax.de/group/technologie"
+    },
+    {
+      "titel": "deutsche-startups.de, 09.09.2026: 36 Millionen für Limetax",
+      "url": "https://deutsche-startups.de/2026/09/09/limetax-erhaelt-36-millionen/"
+    }
+  ],
+  "token": "677572"
+}
