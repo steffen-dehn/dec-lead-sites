@@ -1,0 +1,144 @@
+{
+  "slug": "fuchs-eule",
+  "firma": "Fuchs & Eule",
+  "stand": "Oktober 2026",
+  "empfaenger": [
+    "Robin Behlau",
+    "Dr. Tobias Frese"
+  ],
+  "ci": {
+    "brand": "#14213D",
+    "accent": "#E8743B",
+    "font": "Poppins",
+    "verified": false
+  },
+  "hero": {
+    "kicker": "Für Robin Behlau & Dr. Tobias Frese · Oktober 2026",
+    "title": "Nach der Series B: Wachstum, das die Kultur mitnimmt.",
+    "intro": "Ihr habt 10 Mio. Euro eingesammelt, baut die Plattform aus und wachst mit rund 70 Menschen in die nächste Phase. Wir haben uns angesehen, was ihr nach außen zeigt - und vier Felder gefunden, in denen sich jetzt entscheidet, ob Tempo und Zusammenhalt mitwachsen."
+  },
+  "muster": {
+    "title": "Was wir von außen sehen",
+    "sub": "Zwei Seiten derselben Firma - beide stark, beide gewollt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kund*innen",
+        "quelle": "fuchs-eule.de/unternehmen",
+        "werte": [
+          "Verlässlich",
+          "Exzellent",
+          "Präzision & Methodik",
+          "Wirtschaftlich handeln"
+        ]
+      },
+      {
+        "titel": "Gegenüber Bewerber*innen",
+        "quelle": "fuchs-eule.de/karriere",
+        "werte": [
+          "Haltung statt Hierarchie",
+          "Ownership",
+          "Kurze Wege",
+          "Mutig",
+          "Humor"
+        ]
+      }
+    ],
+    "lesart": "Nach außen versprecht ihr Präzision und Verlässlichkeit, nach innen Tempo und Freiraum. Genau diese Kombination macht euch stark. In der Wachstumsphase wird sie zur Spannung: Präzision braucht Struktur, Tempo braucht Freiraum. Die Frage ist nicht entweder-oder, sondern wie beides bewusst zusammenspielt.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Pioniergeist & Tempo"
+      },
+      {
+        "farbe": "BLAU",
+        "label": "tragfähige Ordnung"
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Leistung & Wirkung"
+      },
+      {
+        "farbe": "GELB",
+        "label": "vernetzte Selbstorganisation"
+      }
+    ]
+  },
+  "handlungsfelder": [
+    {
+      "id": "fuehrung",
+      "titel": "Führung aus der Fachlichkeit",
+      "graves": {
+        "von": "GRUEN",
+        "zu": "GELB"
+      },
+      "heute": "Teamleads wachsen bei euch aus Fachrollen - die Karriereseite erzählt genau diese Geschichten. Gleichzeitig sucht ihr weitere Teamleads und versprecht \"Haltung statt Hierarchie\". Mit jeder neuen Führungsrolle wird die Frage größer: Was heißt Führung bei Fuchs & Eule, wenn sie nicht Hierarchie heißen soll?",
+      "beleg": "Karriereseite: Testimonial \"bis zum Teamlead\", offene Stelle Teamlead Energieberatung",
+      "erster_schritt": "Führungs-Nugget mit allen Teamleads (halber Tag): ein gemeinsames Bild, wofür Führung bei euch da ist - und wofür nicht.",
+      "ergebnis_6m": "Eure Teamleads teilen ein Führungsverständnis und kennen ihre Rolle. Neue Führungskräfte wissen ab Tag 1, was erwartet wird. Fachliche Exzellenz und Führung konkurrieren nicht mehr um dieselbe Zeit."
+    },
+    {
+      "id": "schnittstelle",
+      "titel": "Beratung und Plattform als ein Team",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Das neue Kapital fließt vor allem in Plattform und KI. Ihr vereint zwei Arbeitslogiken: zertifizierte Energieberatung, in der Präzision und Rechtssicherheit zählen, und Produktentwicklung, die von Iteration lebt. Beides unter einem Dach ist euer Vorteil - und die typische Sollbruchstelle wachsender Teams.",
+      "beleg": "Pressemitteilung Juli 2026: Mittel vor allem für den Ausbau des digitalen Geschäftsmodells",
+      "erster_schritt": "Schnittstellen-Workshop Beratung x Product (1 Tag): Wo entsteht heute Reibung, wo Doppelarbeit, wer entscheidet was?",
+      "ergebnis_6m": "Energieberater*innen und Product/Engineering planen gemeinsam. Erfahrungen aus Projekten fließen systematisch in die Plattform. Weniger Abstimmungsschleifen, Releases mit mehr Praxisnähe."
+    },
+    {
+      "id": "werte",
+      "titel": "Werte, die Verhalten steuern",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "BLAU"
+      },
+      "heute": "Ihr kommuniziert zwei Wertesets: Verlässlich, Exzellent, Innovativ, Kooperativ - und Mut, Ownership, Augenhöhe, Humor. Bei rund 70 Menschen trägt sich Kultur noch über persönliche Nähe. Mit jeder Einstellungswelle wird das weniger selbstverständlich.",
+      "beleg": "Core Values auf /unternehmen, Kulturversprechen auf /karriere",
+      "erster_schritt": "Werte Check-up mit einer Pilotgruppe: individuell, heute, zukünftig - sichtbar machen, was gelebt wird und was fehlt.",
+      "ergebnis_6m": "3-4 gemeinsame Werte mit konkreten Verhaltensankern, die in Onboarding, Feedback und Entscheidungen auftauchen. Neue Kolleg*innen erleben dieselbe Kultur wie die ersten zwanzig."
+    },
+    {
+      "id": "entscheiden",
+      "titel": "Entscheiden im Gründungskreis",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "Eine Doppelspitze plus drei weitere Mitgründer*innen in Leitungsrollen: ein starkes Team mit kurzen Wegen. Mit wachsendem Leadership-Team steigt aber die Zahl der Entscheidungen, die nicht mehr nebenbei zwischen den Gründer*innen fallen können.",
+      "beleg": "Team-Übersicht auf /unternehmen (Co-CEOs, Co-Founder Sales und Marketing)",
+      "erster_schritt": "Leadership-Klausur (1 Tag): Entscheidungsarchitektur klären - was entscheidet wer, was wird delegiert, wie wird eskaliert.",
+      "ergebnis_6m": "Klare Entscheidungsrechte entlasten das Gründungsteam. Leads entscheiden in ihrem Raum selbst. Das Tempo bleibt, obwohl die Organisation größer wird."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "45 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Fuchs & Eule x Dehn Consulting"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von Dehn Consulting auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "fuchs-eule.de - Unternehmen",
+      "url": "https://fuchs-eule.de/unternehmen"
+    },
+    {
+      "titel": "fuchs-eule.de - Karriere",
+      "url": "https://fuchs-eule.de/karriere"
+    },
+    {
+      "titel": "Presseportal, 08.07.2026: 10 Mio. EUR Finanzierung",
+      "url": "https://www.presseportal.de/pm/182965/6310233"
+    },
+    {
+      "titel": "Immobilien Zeitung: 10 Mio. Euro für Fuchs & Eule",
+      "url": "https://www.iz.de/innovationen/news/-10-mio.-euro-fuer-fuchs--eule-2000046063"
+    }
+  ],
+  "token": "052870"
+}

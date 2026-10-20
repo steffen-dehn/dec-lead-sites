@@ -1,0 +1,6 @@
+# Interne Inhalte - nie in den öffentlichen Repo
+leads/_input/
+leads/*/analyse.md
+.screenshots/
+__pycache__/
+.DS_Store
