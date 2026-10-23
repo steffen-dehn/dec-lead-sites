@@ -20,8 +20,8 @@
     "intro": "Ihr habt 36 Mio. Euro für eure Plattform und weitere Kanzlei-Partnerschaften gesichert und seid mit über 150 Menschen an sieben Standorten unterwegs. Wir haben uns angesehen, was ihr nach außen zeigt - und vier Felder gefunden, in denen sich entscheidet, ob aus einzelnen Kanzleien eine echte Gruppe wird."
   },
   "muster": {
-    "title": "Was wir von außen sehen",
-    "sub": "Zwei Versprechen, die zusammengehören.",
+    "title": "Werte bei Limetax",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
     "karten": [
       {
         "titel": "Gegenüber Kanzleien",
@@ -49,21 +49,27 @@
     "treppe": [
       {
         "farbe": "PURPUR",
-        "label": "Nähe & Verwurzelung"
+        "label": "Nähe & Verwurzelung",
+        "text": "Kanzleien leben von persönlicher Nähe zu Mandant*innen und gewachsenen Teams vor Ort."
       },
       {
         "farbe": "BLAU",
-        "label": "verlässliche Ordnung"
+        "label": "Verlässliche Ordnung",
+        "text": "Gemeinsame Spielregeln, Rollen und Abläufe, die über alle Standorte hinweg tragen."
       },
       {
         "farbe": "ORANGE",
-        "label": "Wachstum & Wirkung"
+        "label": "Wachstum & Wirkung",
+        "text": "Plattform, Tempo und neue Partnerschaften - Wirkung über die einzelne Kanzlei hinaus."
       },
       {
         "farbe": "GELB",
-        "label": "vernetzte Gruppe"
+        "label": "Vernetzte Gruppe",
+        "text": "Kanzleien und HQ lernen voneinander und steuern die Gruppe gemeinsam."
       }
-    ]
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht von vielen verwurzelten Kanzleien hin zu einer Gruppe, die als Netzwerk wächst. Nähe vor Ort und Tempo im HQ sind schon da. Was beides verbindet, entsteht gerade erst: eine verlässliche gemeinsame Ordnung, die über jede Kanzlei und jede neue Partnerschaft hinweg trägt. Dort liegt im Moment der größte Hebel."
   },
   "handlungsfelder": [
     {
@@ -117,8 +123,9 @@
   ],
   "cta": {
     "title": "Lust, das gemeinsam zu sortieren?",
-    "text": "45 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
     "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
     "mailto": "info@dehn-consulting.com",
     "betreff": "Limetax x Dehn Consulting"
   },
@@ -142,5 +149,6 @@
       "url": "https://deutsche-startups.de/2026/09/09/limetax-erhaelt-36-millionen/"
     }
   ],
-  "token": "677572"
+  "token": "677572",
+  "analyse_titel": "Potenzial-Analyse"
 }
