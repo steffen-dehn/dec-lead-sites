@@ -2,11 +2,6 @@
   "slug": "limetax",
   "firma": "Limetax",
   "stand": "Oktober 2026",
-  "empfaenger": [
-    "Christoph Gamon",
-    "Maximilian Meyer",
-    "Christoph Dansard"
-  ],
   "ci": {
     "brand": "#1c1818",
     "accent": "#436fff",
@@ -15,7 +10,7 @@
     "verified": true
   },
   "hero": {
-    "kicker": "Für Christoph Gamon, Maximilian Meyer & Christoph Dansard · Oktober 2026",
+    "kicker": "Stand Oktober 2026",
     "title": "Eine Gruppe aus vielen Handschriften.",
     "intro": "Ihr habt 36 Mio. Euro für eure Plattform und weitere Kanzlei-Partnerschaften gesichert und seid mit über 150 Menschen an sieben Standorten unterwegs. Wir haben uns angesehen, was ihr nach außen zeigt - und vier Felder gefunden, in denen sich entscheidet, ob aus einzelnen Kanzleien eine echte Gruppe wird."
   },

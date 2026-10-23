@@ -115,8 +115,8 @@
   footer .row { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; align-items: flex-end; }
   footer ul { padding-left: 18px; margin: 8px 0 0; }
   .declogo { display: block; width: 190px; height: auto; }
-  .who-foot { grid-column: 1 / -1; display: flex; justify-content: flex-end; align-items: center; gap: 20px; flex-wrap: wrap; padding-top: 16px; border-top: 1px solid var(--line); }
-  .weblink { font-size: .9rem; color: var(--muted); text-decoration: none; }
+  .logolink { display: inline-block; margin: 14px 0 10px; }
+  .weblink { display: inline-block; margin-top: 4px; font-size: .85rem; color: var(--muted); text-decoration: none; }
   .weblink:hover { color: var(--accent); }
 
   @media (max-width: 820px) {
@@ -157,17 +157,18 @@
 
   <section id="wir">
     <div class="who">
-      <div><h2 id="w-title"></h2><div class="person" id="w-person"></div></div>
-      <div><p id="w-text"></p><div class="chips" id="w-tags"></div></div>
-      <div class="who-foot">
-        <a class="weblink" href="https://www.dehn-consulting.com" target="_blank" rel="noopener">www.dehn-consulting.com</a>
-        <a href="https://www.dehn-consulting.com" target="_blank" rel="noopener" aria-label="Dehn Consulting">
+      <div>
+        <h2 id="w-title"></h2>
+        <a class="logolink" href="https://www.dehn-consulting.com" target="_blank" rel="noopener" aria-label="Dehn Consulting">
           <picture>
             <source srcset="../assets/dec-logo-light.png" media="(prefers-color-scheme: dark)">
             <img class="declogo" src="../assets/dec-logo.png" alt="Dehn Consulting - Iterate the next normal">
           </picture>
         </a>
+        <div class="person" id="w-person"></div>
+        <a class="weblink" href="https://www.dehn-consulting.com" target="_blank" rel="noopener">www.dehn-consulting.com</a>
       </div>
+      <div><p id="w-text"></p><div class="chips" id="w-tags"></div></div>
     </div>
   </section>
 

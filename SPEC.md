@@ -56,7 +56,6 @@ dec-lead-sites/
   "slug": "fuchs-eule",
   "firma": "Fuchs & Eule",
   "stand": "Oktober 2026",
-  "empfaenger": ["Robin Behlau", "Dr. Tobias Frese"],
   "ci": { "brand": "#hex", "accent": "#hex", "font": "Google-Font-Name", "verified": true },
   "hero": { "kicker": "...", "title": "max. 8 Wörter", "intro": "2-3 Sätze, Trigger + Versprechen" },
   "muster": {

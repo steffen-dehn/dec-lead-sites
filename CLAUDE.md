@@ -18,6 +18,7 @@ Alles, was committet wird, ist für jede*n einsehbar - auch für die Leads selbs
 - Graves nur dezent: Farbverlauf je Feld und kleine Treppe. Keine Farbnamen oder Graves-Begriffe im sichtbaren Text.
 - Pflicht: `hinweis` (sichtbar unter dem Einstieg: Inhalte aus öffentlich zugänglichen Daten abgeleitet) und `disclaimer` mit Quellen im Footer.
 - Sprache: "ihr/euch", gegenderte Formen (Mitarbeiter*innen), Bindestrich statt Gedankenstrich, echte Umlaute.
+- Keine Namen von Geschäftsführung oder Gründer*innen auf der Seite (auch nicht im Kicker); Kicker = "Stand <Monat Jahr>".
 - Absender: im Abschnitt "Wer wir sind" einmal "Dehn Consulting // DEC", danach auf der ganzen Seite nur "DEC".
 - CI des Leads (Farben, Schrift) ja, Logo des Leads nein. DEC als Absender immer sichtbar. `noindex`.
 - CI immer per direktem Download ziehen (`curl` der Startseite + verlinkte CSS-Dateien, Hex- und rgb-Werte sowie `font-family` auszählen) - nicht über WebFetch, das verwirft CSS. Lizenzpflichtige Schriften durch eine ähnliche Google-Font ersetzen und das Original in `ci.font_original` vermerken.
