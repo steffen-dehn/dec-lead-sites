@@ -51,6 +51,8 @@ def validate(slug: str, check_urls: bool) -> list[str]:
         for k in FIELD_KEYS:
             if not f.get(k):
                 err.append(f"Handlungsfeld {i}: '{k}' fehlt")
+        if re.search(r"\b\d+\s*(halbe[rn]?\s+)?(Tag|Tage|Stunde|Stunden)\b|\bhalber Tag\b", f.get("erster_schritt", "")):
+            err.append(f"Handlungsfeld {i}: Dauerangabe im ersten Schritt")
         g = f.get("graves", {})
         if g and not {g.get("von"), g.get("zu")} <= GRAVES:
             err.append(f"Handlungsfeld {i}: ungültige Graves-Farbe {g}")

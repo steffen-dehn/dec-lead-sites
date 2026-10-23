@@ -13,7 +13,7 @@ Pilot: `leads/fuchs-eule/` (fertige Referenz, siehe `index.html`).
 | Außenperspektive, keine Diagnose | Alles als Beobachtung + Hypothese formulieren. Nie "eure Kultur ist X". Jede "Was ist heute"-Aussage hat einen `beleg` (Quelle). |
 | Graves dezent | Graves steuert die Analyse, erscheint auf der Seite nur als Farbverlauf je Handlungsfeld und als kleine "Treppe" unter dem Muster. Keine Farbnamen, keine Stufen-Erklärung im Text. |
 | Handlungsfelder frei abgeleitet | Kein fester Katalog. 3-4 Felder pro Lead (harte Obergrenze), aus Spannungen der Analyse. |
-| Zwei Spalten | *Was ist heute* (Lage + Beleg) / *Was wird sein* (erster Schritt mit Format und Dauer + Ergebnis nach 6 Monaten). |
+| Zwei Spalten | *Was ist heute* (Lage + Beleg) / *Was wird sein* (erster Schritt als Format ohne Dauer- oder Tagesangabe + Ergebnis nach 6 Monaten). |
 | Positiv, konkret, kein Pitch | Zukunftsbild als Anknüpfungspunkt fürs Gespräch, keine Leistungsliste. |
 | DEC-Sprache | "ihr/euch", gegenderte Formen (Mitarbeiter*innen), Bindestrich statt Gedankenstrich, echte Umlaute. |
 | Herkunft transparent | Pflicht: kleiner Hinweis direkt unter dem Einstieg ("Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet ...") plus ausführlicher Disclaimer mit Quellen im Footer. |
@@ -73,7 +73,7 @@ dec-lead-sites/
       "graves": { "von": "FARBE", "zu": "FARBE" },   // nur für Farbverlauf
       "heute": "3-4 Sätze, beobachtbar",
       "beleg": "konkrete Quelle der Beobachtung",
-      "erster_schritt": "Format (Dauer): Leitfrage",
+      "erster_schritt": "Format: Leitfrage (keine Dauer/Tage)",
       "ergebnis_6m": "2-3 Sätze, sichtbares Ergebnis"
     }
   ],

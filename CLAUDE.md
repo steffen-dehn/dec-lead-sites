@@ -14,7 +14,7 @@ Alles, was committet wird, ist für jede*n einsehbar - auch für die Leads selbs
 
 - Außenperspektive, keine Diagnose: Beobachtung + Hypothese, jede Aussage unter "Was ist heute" mit `beleg`.
 - Handlungsfelder frei aus der Analyse abgeleitet, 3-4 pro Lead.
-- Struktur je Feld: **Was ist heute** / **Was wird sein** (erster Schritt mit Format und Dauer + Ergebnis nach 6 Monaten).
+- Struktur je Feld: **Was ist heute** / **Was wird sein** (erster Schritt als Format ohne Dauer- oder Tagesangabe + Ergebnis nach 6 Monaten).
 - Graves nur dezent: Farbverlauf je Feld und kleine Treppe. Keine Farbnamen oder Graves-Begriffe im sichtbaren Text.
 - Pflicht: `hinweis` (sichtbar unter dem Einstieg: Inhalte aus öffentlich zugänglichen Daten abgeleitet) und `disclaimer` mit Quellen im Footer.
 - Sprache: "ihr/euch", gegenderte Formen (Mitarbeiter*innen), Bindestrich statt Gedankenstrich, echte Umlaute.
