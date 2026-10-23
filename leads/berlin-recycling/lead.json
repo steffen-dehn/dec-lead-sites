@@ -1,0 +1,136 @@
+{
+  "slug": "berlin-recycling",
+  "firma": "Berlin Recycling",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#1d1d1f",
+    "accent": "#ff6600",
+    "accent_ink": "#d74116",
+    "on_accent": "#1d1d1f",
+    "bg": "#f7f7f7",
+    "font": "Barlow",
+    "font_original": "GT Walsheim Condensed",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "25 Jahre Berlin Recycling - und der nächste Schritt.",
+    "intro": "Mit über 500 Mitarbeitenden und rund 150 Fahrzeugen haltet ihr Wertstoffe in Berlin im Kreislauf, habt euch 2025 neu aufgestellt und digitalisiert eure Abläufe. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie ihr eure Organisation für die nächsten Jahre aufstellt."
+  },
+  "muster": {
+    "title": "Werte bei Berlin Recycling",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kund*innen",
+        "quelle": "berlin-recycling.de",
+        "werte": [
+          "Dass es funktioniert",
+          "Zweite Chance für Wertstoffe",
+          "Berlin ist unsere Stadt",
+          "Kund*innen im Mittelpunkt"
+        ]
+      },
+      {
+        "titel": "Gegenüber Bewerber*innen",
+        "quelle": "berlin-recycling.de/jobs",
+        "werte": [
+          "Anpacken",
+          "Verantwortung übernehmen",
+          "Mitgestalten",
+          "Zusammenhalt",
+          "Wertschätzung"
+        ]
+      }
+    ],
+    "lesart": "Kund*innen versprecht ihr vor allem eines: dass es funktioniert. Intern beschreibt ihr euch als agiles mittelständisches Unternehmen, das anpackt und mitgestalten lässt - und das als Tochter eines großen öffentlichen Unternehmens. Diese Doppelrolle aus Verlässlichkeit und Beweglichkeit ist eure Stärke und zugleich die zentrale Gestaltungsaufgabe.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Zusammenhalt",
+        "text": "Ein Team, das anpackt und zusammensteht."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Verlässlichkeit",
+        "text": "Pünktliche Touren, klare Abläufe, öffentliche Verantwortung."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Modernes Recycling",
+        "text": "Digitalisierung, E-Flotte, neue Angebote."
+      },
+      {
+        "farbe": "GRUEN",
+        "label": "Beteiligung",
+        "text": "Mitarbeitende gestalten den Wandel aktiv mit."
+      }
+    ],
+    "fokus": 3,
+    "bewegung": "Eure Bewegung geht von starkem Zusammenhalt über verlässliche Abläufe und modernes Recycling hin zu einer Organisation, in der Mitarbeitende den Wandel mitgestalten. Zusammenhalt und Verlässlichkeit sind euer Fundament. Der Hebel liegt darin, Fahrer*innen, Lader*innen und Büro gleichermaßen in die Modernisierung einzubinden."
+  },
+  "handlungsfelder": [
+    {
+      "id": "digital",
+      "titel": "Digitalisierung mit den Teams auf der Straße",
+      "graves": {
+        "von": "BLAU",
+        "zu": "ORANGE"
+      },
+      "heute": "Ihr sucht Entwickler*innen für Automatisierung und Systemadministration und modernisiert eure Flotte. Neue Systeme verändern vor allem den Alltag von Tourenplanung, Fahrer*innen und Lader*innen. Ob sie wirken, entscheidet sich daran, ob diese Teams sie mitgestalten.",
+      "beleg": "Offene Stellen auf berlin-recycling.de/jobs, E-Flotte laut berlin-recycling.de/unternehmen/berlin-recycling",
+      "erster_schritt": "Praxis-Werkstatt mit Tourenplanung und Fahrer*innen: Was erleichtert die Arbeit wirklich, was macht sie schwerer, was brauchen wir?",
+      "ergebnis_6m": "Digitale Vorhaben, die von den Teams auf der Straße mitgetragen werden. Weniger Reibung bei der Einführung, höhere Akzeptanz neuer Systeme."
+    },
+    {
+      "id": "spielraum",
+      "titel": "Agil in einem öffentlichen Verbund",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Als 100-prozentige Tochter der BSR verbindet ihr öffentliche Verantwortung mit dem Anspruch, agil und mittelständisch zu arbeiten. Zwischen diesen Polen entstehen täglich Entscheidungen: Wie schnell dürfen wir sein, welche Abstimmungen braucht es, wo haben wir Spielraum?",
+      "beleg": "berlin-recycling.de/unternehmen/berlin-recycling",
+      "erster_schritt": "Leitungsklausur: Wo liegt unser Handlungsspielraum, welche Entscheidungen treffen wir selbst, wie gestalten wir die Abstimmung im Verbund?",
+      "ergebnis_6m": "Klare Entscheidungswege und mehr genutzter Spielraum. Führungskräfte wissen, wo sie schnell handeln können."
+    },
+    {
+      "id": "fuehrung",
+      "titel": "Führung zwischen Hof und Büro",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "GRUEN"
+      },
+      "heute": "Über 500 Menschen arbeiten bei euch - in Sortieranlagen, auf Touren, in der Disposition und im Büro. Wertschätzung und Zusammenhalt sind euch wichtig. Für Führungskräfte heißt das, sehr unterschiedliche Arbeitswelten zusammenzuhalten.",
+      "beleg": "Karriereseite und Unternehmensseite berlin-recycling.de",
+      "erster_schritt": "Führungs-Nugget mit Teamleitungen aus Betrieb und Verwaltung: Was heißt wertschätzende Führung bei uns - auf dem Hof wie im Büro?",
+      "ergebnis_6m": "Ein gemeinsames Führungsverständnis über alle Bereiche. Wertschätzung wird im Alltag spürbar und hilft, gute Leute zu halten."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Berlin Recycling x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "berlin-recycling.de - Startseite",
+      "url": "https://www.berlin-recycling.de"
+    },
+    {
+      "titel": "berlin-recycling.de - Wer wir sind",
+      "url": "https://www.berlin-recycling.de/unternehmen/berlin-recycling"
+    },
+    {
+      "titel": "berlin-recycling.de - Jobs",
+      "url": "https://www.berlin-recycling.de/jobs"
+    }
+  ],
+  "token": "b39ec0"
+}

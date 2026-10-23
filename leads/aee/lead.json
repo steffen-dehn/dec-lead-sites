@@ -1,0 +1,129 @@
+{
+  "slug": "aee",
+  "firma": "Agentur für Erneuerbare Energien",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#222222",
+    "accent": "#0077c7",
+    "bg": "#ffffff",
+    "font": "Barlow",
+    "font_original": "DIN Next LT Pro",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Neue Geschäftsführung, klare Mission - ein Team im Übergang.",
+    "intro": "Seit September führt eure bisherige stellvertretende Geschäftsführerin die AEE, nach fast acht Jahren unter ihrem Vorgänger. Gleichzeitig setzt ihr mit Energieresilienz einen neuen inhaltlichen Akzent. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie aus dem Wechsel ein gemeinsamer Aufbruch wird."
+  },
+  "muster": {
+    "title": "Werte der AEE",
+    "sub": "Was ihr nach außen zeigt - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Öffentlichkeit und Politik",
+        "quelle": "unendlich-viel-energie.de",
+        "werte": [
+          "Partei- und gesellschaftsübergreifend",
+          "Nicht gewinnorientiert",
+          "Menschen begeistern",
+          "Energieresilienz"
+        ]
+      },
+      {
+        "titel": "Als Organisation",
+        "quelle": "unendlich-viel-energie.de/ueber-uns",
+        "werte": [
+          "Wissenschaftliche Analyse",
+          "Kommunikation",
+          "Projektarbeit",
+          "Kleines Team"
+        ]
+      }
+    ],
+    "lesart": "Nach außen seid ihr eine unabhängige Stimme für die Energiewende, die Menschen begeistern will. Nach innen arbeitet ein kleines Team in vielen parallelen Projekten für unterschiedliche Auftrag- und Geldgeber*innen. Ein Führungswechsel macht sichtbar, was bisher an einer Person hing - und eröffnet die Chance, es gemeinsam neu zu ordnen.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Gemeinsame Mission",
+        "text": "Ein kleines Team, verbunden durch die Sache."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Klare Rollen",
+        "text": "Verantwortung, die nicht an einzelnen Personen hängt."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Wirkung & Profil",
+        "text": "Sichtbarkeit und Einfluss mit dem Schwerpunkt Resilienz."
+      },
+      {
+        "farbe": "GRUEN",
+        "label": "Getragen vom Team",
+        "text": "Eine Strategie, die alle mitentwickeln und mittragen."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht von einem Team, das die gemeinsame Mission trägt, über klare Rollen und ein geschärftes Profil hin zu einer Strategie, die alle mitentwickeln. Mission und Profil sind stark. Nach dem Wechsel liegt der Hebel bei den Rollen: Was ändert sich, was bleibt, wer übernimmt was?"
+  },
+  "handlungsfelder": [
+    {
+      "id": "wechsel",
+      "titel": "Den Führungswechsel gemeinsam gestalten",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GRUEN"
+      },
+      "heute": "Nach fast acht Jahren hat die AEE eine neue Geschäftsführung, die bisher stellvertretend und als Pressesprecherin tätig war. Für ein Team von rund einem Dutzend Menschen ändert sich damit viel: Ansprechpartner*innen, Entscheidungswege, informelle Absprachen. Solche Übergänge gelingen am besten, wenn sie offen besprochen werden.",
+      "beleg": "solarserver.de vom 31.08.2026, Team auf unendlich-viel-energie.de/ueber-uns",
+      "erster_schritt": "Team-Workshop zum Übergang: Was nehmen wir mit, was lassen wir los, was erwarten wir voneinander in der neuen Konstellation?",
+      "ergebnis_6m": "Klare Rollen und Absprachen im Team nach dem Wechsel. Die neue Geschäftsführung kann sich auf Strategie konzentrieren, weil der Alltag verlässlich läuft."
+    },
+    {
+      "id": "resilienz",
+      "titel": "Resilienz als strategischer Schwerpunkt",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GRUEN"
+      },
+      "heute": "Mit dem Wechsel rückt Energieresilienz in den Vordergrund: Kommunen und Regionen sollen Schritt für Schritt widerstandsfähiger werden. Ein neuer Schwerpunkt verändert, welche Projekte ihr akquiriert, mit wem ihr kooperiert und welche Kompetenzen im Team gebraucht werden.",
+      "beleg": "Schwerpunkte laut solarserver.de vom 31.08.2026",
+      "erster_schritt": "Strategie-Workshop mit dem ganzen Team: Was heißt Resilienz für unser Portfolio, welche Projekte passen, welche nicht mehr?",
+      "ergebnis_6m": "Ein gemeinsam getragenes Strategiebild mit klaren Prioritäten für Projekte und Partnerschaften. Neue Anträge folgen einer gemeinsamen Linie."
+    },
+    {
+      "id": "last",
+      "titel": "Viele Projekte, ein Team",
+      "graves": {
+        "von": "BLAU",
+        "zu": "ORANGE"
+      },
+      "heute": "Ihr betreut parallel über ein Dutzend Projekte für Ministerien, EU, Stiftungen und Mitgliedsunternehmen - von Energie-Kommunen bis Wärmepumpe kommunal. In kleinen Teams führt das schnell zu Engpässen bei denselben Menschen und zu wenig Zeit für das Gemeinsame.",
+      "beleg": "Projekte und Finanzierung auf unendlich-viel-energie.de/ueber-uns",
+      "erster_schritt": "Werkstatt 'Ungeplante Arbeit sichtbar machen': Wo entsteht Last, was ist wirklich Priorität, was können wir lassen?",
+      "ergebnis_6m": "Transparenz über Auslastung und Prioritäten im Team. Weniger Überlast, mehr Raum für strategische Arbeit."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Agentur für Erneuerbare Energien x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "unendlich-viel-energie.de - Über uns",
+      "url": "https://www.unendlich-viel-energie.de/ueber-uns"
+    },
+    {
+      "titel": "solarserver.de, 31.08.2026: Neue Geschäftsführung der AEE",
+      "url": "https://www.solarserver.de/2026/08/31/annika-schwalbe-neue-geschaeftsfuehrerin-agentur-erneuerbare-energien/"
+    }
+  ],
+  "token": "317443"
+}

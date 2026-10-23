@@ -1,0 +1,136 @@
+{
+  "slug": "hallo-theo",
+  "firma": "Theo",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#2a2a2a",
+    "accent": "#d7ad08",
+    "accent_ink": "#28360e",
+    "on_accent": "#2a2a2a",
+    "bg": "#f5f5f0",
+    "font": "Inter",
+    "font_original": "Die Grotesk A",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Hausverwaltung, die mitdenkt - an jedem Standort gleich.",
+    "intro": "Ihr wachst, indem ihr bestehende Hausverwaltungen samt Teams integriert - heute mit über 140 Menschen in Berlin, Frankfurt, München, Stuttgart und Wildeshausen. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, ob aus vielen Standorten ein Theo wird."
+  },
+  "muster": {
+    "title": "Werte bei Theo",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Eigentümer*innen",
+        "quelle": "hallotheo.de/ueber-theo",
+        "werte": [
+          "Erreichbar",
+          "Strukturiert",
+          "Verantwortungsbewusst",
+          "Hausverwaltung, die mitdenkt"
+        ]
+      },
+      {
+        "titel": "Gegenüber Bewerber*innen",
+        "quelle": "hallotheo.de/karriere",
+        "werte": [
+          "Freundlich direkt",
+          "Ins Unbekannte, trotzdem",
+          "Mehr Mensch mit Maschine",
+          "Hüter mit Haltung",
+          "Vertrauen zuerst"
+        ]
+      }
+    ],
+    "lesart": "Euren Kund*innen versprecht ihr Ruhe und Struktur, euren Teams Mut zum Unbekannten und KI als Entlastung. Beides passt zusammen. Die Spannung liegt bei den Menschen, die mit einer übernommenen Verwaltung zu euch kommen: Sie bringen jahrzehntelange Erfahrung und regionale Verwurzelung mit - und sollen 'Ins Unbekannte, trotzdem' mitgehen.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Regionale Verwurzelung",
+        "text": "Teams mit Ortskenntnis und langen Beziehungen."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Gemeinsame Standards",
+        "text": "Gleiche Qualität an jedem Standort."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Mensch mit Maschine",
+        "text": "KI und Software, die Zeit für Menschen schaffen."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Vernetztes Theo",
+        "text": "Standorte und Fachteams lernen voneinander."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht von regional verwurzelten Teams über gemeinsame Standards und kluge Technologie hin zu einem Theo, in dem alle Standorte voneinander lernen. Verwurzelung und Technologie bringt ihr mit. Der Hebel liegt in der Mitte: in Standards, die an jedem Standort gleich gelebt werden, ohne die regionale Handschrift zu verlieren."
+  },
+  "handlungsfelder": [
+    {
+      "id": "integration",
+      "titel": "Übernommene Verwaltungen gut integrieren",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "BLAU"
+      },
+      "heute": "Ihr wachst durch Integration bestehender Hausverwaltungen, der Standort Stuttgart etwa blickt auf eine Geschichte seit 1967 zurück. Jede Integration bringt eigene Routinen, Beziehungen und Selbstverständnisse mit. Euer Anspruch, Qualität an jedem Standort gleich hoch zu halten, entscheidet sich in den Monaten nach dem Beitritt.",
+      "beleg": "hallotheo.de/ueber-theo, Standortangaben auf hallotheo.de",
+      "erster_schritt": "Integrations-Werkstatt mit Teams aus bereits integrierten Standorten: Was hat beim Ankommen geholfen, was fehlte, was brauchen die nächsten?",
+      "ergebnis_6m": "Ein erprobter Integrationspfad für jede neue Verwaltung. Neue Standorte arbeiten schneller nach euren Standards, erfahrene Mitarbeitende bleiben an Bord."
+    },
+    {
+      "id": "ki",
+      "titel": "Mehr Mensch mit Maschine im Alltag",
+      "graves": {
+        "von": "BLAU",
+        "zu": "ORANGE"
+      },
+      "heute": "KI soll bei euch Zettelwirtschaft ersetzen und Zeit für Menschen schaffen. Für zertifizierte Verwalter*innen und Buchhalter*innen, die seit Jahren anders arbeiten, ist das eine echte Umstellung - mit Chancen und mit Bedenken.",
+      "beleg": "hallotheo.de/karriere und hallotheo.de/ueber-theo",
+      "erster_schritt": "Praxis-Werkstatt an einem Standort: Was verändert sich in der Arbeit, was entlastet wirklich, welche Bedenken gibt es?",
+      "ergebnis_6m": "Teams nutzen die neuen Werkzeuge aktiv und geben strukturiert Rückmeldung an Product. Bedenken haben einen festen Ort, statt den Wandel zu bremsen."
+    },
+    {
+      "id": "werte",
+      "titel": "Werte, die alle Standorte tragen",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Mit Werten von 'Freundlich direkt' bis 'Vertrauen zuerst' habt ihr ein klares Kulturbild formuliert. An einem Standort, der seit Jahrzehnten besteht, und in einem Product-Team in Berlin können dieselben Worte sehr Unterschiedliches bedeuten.",
+      "beleg": "Werte auf hallotheo.de/karriere",
+      "erster_schritt": "Werte Check-up mit einer standortübergreifenden Gruppe: individuell, heute, zukünftig - wo verbinden die Werte, wo reiben sie?",
+      "ergebnis_6m": "Gemeinsame Verhaltensanker zu euren Werten, die an allen Standorten gleich verstanden und in Onboarding und Führung genutzt werden."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Theo x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "hallotheo.de - Startseite",
+      "url": "https://hallotheo.de"
+    },
+    {
+      "titel": "hallotheo.de - Über Theo",
+      "url": "https://hallotheo.de/ueber-theo"
+    },
+    {
+      "titel": "hallotheo.de - Karriere",
+      "url": "https://hallotheo.de/karriere"
+    }
+  ],
+  "token": "afbf03"
+}

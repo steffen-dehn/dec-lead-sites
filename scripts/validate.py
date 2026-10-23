@@ -17,6 +17,8 @@ GRAVES = {"PURPUR", "ROT", "BLAU", "ORANGE", "GRUEN", "GELB", "TUERKIS"}
 GRAVES_WORDS = re.compile(r"\b(purpur|türkis|tuerkis|graves|spiral dynamics)\b", re.I)
 # typische Umlaut-Ersatzschreibungen (Stichprobe, keine Vollprüfung)
 UMLAUT_FAKES = re.compile(r"\b\w*(fuer|ueber|koennen|moeglich|aussen|groesse|haeufig|zusaetzlich|naechste)\w*\b", re.I)
+# Webadressen/Pfade (z. B. futurium.de/de/ueber-uns) nicht als Umlaut-Ersatz werten
+URLISH = re.compile(r"\S*[a-z0-9-]+\.[a-z]{2,}(/\S*)?", re.I)
 REQUIRED = ["slug", "firma", "hero", "muster", "handlungsfelder", "cta", "hinweis", "disclaimer", "quellen"]
 FIELD_KEYS = ["id", "titel", "graves", "heute", "beleg", "erster_schritt", "ergebnis_6m"]
 VISIBLE_SKIP = {"graves", "farbe", "slug", "id", "url", "mailto", "token", "ci"}
@@ -66,7 +68,7 @@ def validate(slug: str, check_urls: bool) -> list[str]:
             err.append(f"Gedankenstrich in '{key}': {s[:60]}...")
         if GRAVES_WORDS.search(s):
             err.append(f"Graves-Begriff im sichtbaren Text '{key}': {s[:60]}...")
-        m = UMLAUT_FAKES.search(s)
+        m = UMLAUT_FAKES.search(URLISH.sub(" ", s))
         if m:
             err.append(f"Umlaut-Ersatz in '{key}': {m.group(0)}")
 

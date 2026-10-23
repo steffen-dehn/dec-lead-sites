@@ -18,6 +18,8 @@
     --muted: #6E6E6E;
     --line: #E6E1DA;
     --dec: #A8B300;
+    --accent-ink: var(--accent);
+    --on-accent: #ffffff;
     --g-purpur: #8E6BA8; --g-rot: #C8553D; --g-blau: #3D6FA8; --g-orange: #E0913A;
     --g-gruen: #6E9E4F; --g-gelb: #D9B53F; --g-tuerkis: #3FA8A0;
     --radius: 14px;
@@ -37,7 +39,10 @@
   a { color: inherit; }
 
   header.hero { padding: 72px 16px 48px; }
-  .kicker { font-size: .85rem; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
+  .eyebrow { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; max-width: 100%; font-size: 1.05rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--brand); margin-bottom: 18px; }
+  .eyebrow::before { content: ""; width: 28px; height: 3px; border-radius: 2px; background: var(--accent); }
+  .eyebrow span { color: var(--muted); font-weight: 400; }
+  .kicker { font-size: .85rem; letter-spacing: .08em; text-transform: uppercase; color: var(--accent-ink); font-weight: 600; }
   h1 { font-size: clamp(2rem, 5vw, 3.4rem); line-height: 1.1; margin: 12px 0 20px; color: var(--brand); max-width: 18ch; }
   .lead { font-size: 1.15rem; max-width: 62ch; color: var(--text); }
 
@@ -55,17 +60,33 @@
   .chips { display: flex; flex-wrap: wrap; gap: 8px; }
   .chip { border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; font-size: .9rem; }
   .reading { margin-top: 16px; padding: 20px 22px; border-left: 4px solid var(--accent); background: var(--surface); border-radius: 0 var(--radius) var(--radius) 0; }
-  .stair { display: flex; align-items: center; gap: 10px; margin-top: 18px; font-size: .85rem; color: var(--muted); flex-wrap: wrap; }
-  .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
-  .stair .arrow { opacity: .5; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; flex: none; }
+  .valueblock { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; }
+  .valueblock .pcard { background: var(--bg); border-color: transparent; }
+  .move { margin-top: 18px; padding: 20px 6px 4px; border-top: 1px solid var(--line); }
+  .move .label { margin: 0 0 14px 0; }
+  .steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; position: relative; }
+  .mstep { position: relative; padding: 14px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); }
+  .mstep + .mstep::before { content: "→"; position: absolute; left: -9px; top: 14px; font-size: .8rem; color: var(--muted); background: var(--surface); line-height: 1; }
+  .mstep.fokus { border-color: var(--accent-ink); box-shadow: 0 0 0 1px var(--accent); }
+  .mstep .mhead { display: flex; align-items: center; gap: 8px; font-weight: 600; font-size: .92rem; line-height: 1.3; }
+  .mstep p { margin: 8px 0 0; font-size: .85rem; color: var(--muted); line-height: 1.5; }
+  .mstep .tag { display: inline-block; margin-top: 8px; font-size: .72rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--accent-ink); }
+  .movetext { margin: 16px 0 0; max-width: 72ch; }
+
+  /* Wer wir sind */
+  .who { display: grid; grid-template-columns: 1fr 2fr; gap: 24px; padding: 28px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--surface); }
+  .who h2 { margin: 0; }
+  .who .person { margin-top: 6px; font-size: .85rem; color: var(--muted); }
+  .who p { margin: 0 0 14px; }
 
   /* Handlungsfelder */
   .fields { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
   .fbtn { all: unset; cursor: pointer; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; display: flex; flex-direction: column; gap: 8px; transition: transform .15s, border-color .15s, box-shadow .15s; }
   .fbtn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,.06); }
   .fbtn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-  .fbtn[aria-selected="true"] { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
-  .fnum { font-size: .8rem; color: var(--accent); font-weight: 600; }
+  .fbtn[aria-selected="true"] { border-color: var(--accent-ink); box-shadow: 0 0 0 1px var(--accent); }
+  .fnum { font-size: .8rem; color: var(--accent-ink); font-weight: 600; }
   .ftitle { font-weight: 600; line-height: 1.3; }
 
   .detail { margin-top: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
@@ -76,13 +97,13 @@
   .col { padding: 24px; }
   .col + .col { border-left: 1px solid var(--line); }
   .label { font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; font-weight: 600; color: var(--muted); margin-bottom: 10px; }
-  .col.future .label { color: var(--accent); }
+  .col.future .label { color: var(--accent-ink); }
   .step { margin-top: 18px; }
   .step .label { margin-bottom: 6px; }
   .evidence { font-size: .8rem; color: var(--muted); margin-top: 14px; }
   .nav { display: flex; justify-content: space-between; padding: 0 24px 22px; }
   .nav button { all: unset; cursor: pointer; font-size: .9rem; color: var(--muted); }
-  .nav button:hover { color: var(--accent); }
+  .nav button:hover { color: var(--accent-ink); }
   .detail-inner { animation: fade .25s ease; }
   @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
 
@@ -90,26 +111,31 @@
   .cta { background: var(--brand); color: var(--bg); border-radius: var(--radius); padding: 40px 32px; display: grid; grid-template-columns: 1.4fr 1fr; gap: 24px; align-items: center; }
   .cta h2 { color: inherit; }
   .cta p { margin: 0; opacity: .85; }
-  .cta a.btn { justify-self: end; background: var(--accent); color: #fff; text-decoration: none; padding: 14px 24px; border-radius: 999px; font-weight: 600; }
+  .cta a.btn { justify-self: end; background: var(--accent); color: var(--on-accent); text-decoration: none; padding: 14px 24px; border-radius: 999px; font-weight: 600; }
 
   footer { padding: 40px 16px 56px; font-size: .82rem; color: var(--muted); }
   footer .row { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; align-items: flex-end; }
   footer ul { padding-left: 18px; margin: 8px 0 0; }
-  .decmark { font-weight: 600; color: var(--text); }
-  .decmark span { color: var(--dec); }
+  .declogo { display: block; width: 190px; height: auto; }
+  .logolink { display: inline-block; margin: 14px 0 10px; }
+  .weblink { display: inline-block; margin-top: 4px; font-size: .85rem; color: var(--muted); text-decoration: none; }
+  .weblink:hover { color: var(--accent-ink); }
 
   @media (max-width: 820px) {
     .fields { grid-template-columns: 1fr 1fr; }
-    .pattern, .cols, .cta { grid-template-columns: 1fr; }
+    .pattern, .cols, .cta, .who { grid-template-columns: 1fr; }
+    .steps { grid-template-columns: 1fr 1fr; }
+    .mstep + .mstep::before { display: none; }
     .col + .col { border-left: 0; border-top: 1px solid var(--line); }
     .cta a.btn { justify-self: start; }
   }
-  @media (max-width: 420px) { .fields { grid-template-columns: 1fr; } }
+  @media (max-width: 420px) { .fields, .steps { grid-template-columns: 1fr; } }
 </style>
 </head>
 <body>
 
 <header class="hero wrap">
+  <div class="eyebrow" id="eyebrow"></div>
   <div class="kicker" id="kicker"></div>
   <h1 id="title"></h1>
   <p class="lead" id="intro"></p>
@@ -120,9 +146,32 @@
   <section id="muster">
     <h2 id="m-title"></h2>
     <p class="sub" id="m-sub"></p>
-    <div class="pattern" id="m-cards"></div>
+    <div class="valueblock">
+      <div class="pattern" id="m-cards"></div>
+      <div class="move" title="Kulturdynamik nach Clare W. Graves">
+        <div class="label">Eure Wachstumsbewegung</div>
+        <div class="steps" id="m-steps"></div>
+        <p class="movetext" id="m-move"></p>
+      </div>
+    </div>
     <div class="reading" id="m-reading"></div>
-    <div class="stair" id="m-stair" title="Kulturdynamik nach Clare W. Graves"></div>
+  </section>
+
+  <section id="wir">
+    <div class="who">
+      <div>
+        <h2 id="w-title"></h2>
+        <a class="logolink" href="https://www.dehn-consulting.com" target="_blank" rel="noopener" aria-label="Dehn Consulting">
+          <picture>
+            <source srcset="../assets/dec-logo-light.png" media="(prefers-color-scheme: dark)">
+            <img class="declogo" src="../assets/dec-logo.png" alt="Dehn Consulting - Iterate the next normal">
+          </picture>
+        </a>
+        <div class="person" id="w-person"></div>
+        <a class="weblink" href="https://www.dehn-consulting.com" target="_blank" rel="noopener">www.dehn-consulting.com</a>
+      </div>
+      <div><p id="w-text"></p><div class="chips" id="w-tags"></div></div>
+    </div>
   </section>
 
   <section id="felder">
@@ -149,7 +198,6 @@
       <div id="disclaimer"></div>
       <div style="margin-top:12px"><strong>Quellen</strong><ul id="sources"></ul></div>
     </div>
-    <div class="decmark">Dehn <span>Consulting</span></div>
   </div>
 </footer>
 
@@ -159,10 +207,6 @@
   "slug": "fuchs-eule",
   "firma": "Fuchs & Eule",
   "stand": "Oktober 2026",
-  "empfaenger": [
-    "Robin Behlau",
-    "Dr. Tobias Frese"
-  ],
   "ci": {
     "brand": "#1d1c1b",
     "accent": "#cb7e57",
@@ -172,13 +216,13 @@
     "verified": true
   },
   "hero": {
-    "kicker": "Für Robin Behlau & Dr. Tobias Frese · Oktober 2026",
+    "kicker": "Stand Oktober 2026",
     "title": "Nach der Series B: Wachstum, das die Kultur mitnimmt.",
     "intro": "Ihr habt 10 Mio. Euro eingesammelt, baut die Plattform aus und wachst mit rund 70 Menschen in die nächste Phase. Wir haben uns angesehen, was ihr nach außen zeigt - und vier Felder gefunden, in denen sich jetzt entscheidet, ob Tempo und Zusammenhalt mitwachsen."
   },
   "muster": {
-    "title": "Was wir von außen sehen",
-    "sub": "Zwei Seiten derselben Firma - beide stark, beide gewollt.",
+    "title": "Werte bei Fuchs & Eule",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
     "karten": [
       {
         "titel": "Gegenüber Kund*innen",
@@ -206,21 +250,27 @@
     "treppe": [
       {
         "farbe": "ROT",
-        "label": "Pioniergeist & Tempo"
+        "label": "Pioniergeist & Tempo",
+        "text": "Schnelle Ideen, kurze Wege, viel Ownership."
       },
       {
         "farbe": "BLAU",
-        "label": "tragfähige Ordnung"
+        "label": "Tragfähige Ordnung",
+        "text": "Rollen, Standards und Entscheidungswege, die Präzision sichern."
       },
       {
         "farbe": "ORANGE",
-        "label": "Leistung & Wirkung"
+        "label": "Leistung & Wirkung",
+        "text": "Plattform, KI und Wachstum in der Immobilienwirtschaft."
       },
       {
         "farbe": "GELB",
-        "label": "vernetzte Selbstorganisation"
+        "label": "Vernetzte Selbstorganisation",
+        "text": "Beratung, Product und Data steuern sich gemeinsam."
       }
-    ]
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht vom Pioniergeist der Gründungsjahre über eine tragfähige Ordnung und wachsende Wirkung hin zu Teams, die sich selbst organisieren. Tempo und Ambition sind da. Der Hebel liegt in der Mitte: in einer Ordnung, die Präzision sichert, ohne den Freiraum zu nehmen, den ihr Bewerber*innen versprecht."
   },
   "handlungsfelder": [
     {
@@ -232,7 +282,7 @@
       },
       "heute": "Teamleads wachsen bei euch aus Fachrollen - die Karriereseite erzählt genau diese Geschichten. Gleichzeitig sucht ihr weitere Teamleads und versprecht \"Haltung statt Hierarchie\". Mit jeder neuen Führungsrolle wird die Frage größer: Was heißt Führung bei Fuchs & Eule, wenn sie nicht Hierarchie heißen soll?",
       "beleg": "Karriereseite: Testimonial \"bis zum Teamlead\", offene Stelle Teamlead Energieberatung",
-      "erster_schritt": "Führungs-Nugget mit allen Teamleads (halber Tag): ein gemeinsames Bild, wofür Führung bei euch da ist - und wofür nicht.",
+      "erster_schritt": "Führungs-Nugget mit allen Teamleads: ein gemeinsames Bild, wofür Führung bei euch da ist - und wofür nicht.",
       "ergebnis_6m": "Eure Teamleads teilen ein Führungsverständnis und kennen ihre Rolle. Neue Führungskräfte wissen ab Tag 1, was erwartet wird. Fachliche Exzellenz und Führung konkurrieren nicht mehr um dieselbe Zeit."
     },
     {
@@ -244,7 +294,7 @@
       },
       "heute": "Das neue Kapital fließt vor allem in Plattform und KI. Ihr vereint zwei Arbeitslogiken: zertifizierte Energieberatung, in der Präzision und Rechtssicherheit zählen, und Produktentwicklung, die von Iteration lebt. Beides unter einem Dach ist euer Vorteil - und die typische Sollbruchstelle wachsender Teams.",
       "beleg": "Pressemitteilung Juli 2026: Mittel vor allem für den Ausbau des digitalen Geschäftsmodells",
-      "erster_schritt": "Schnittstellen-Workshop Beratung x Product (1 Tag): Wo entsteht heute Reibung, wo Doppelarbeit, wer entscheidet was?",
+      "erster_schritt": "Schnittstellen-Workshop Beratung x Product: Wo entsteht heute Reibung, wo Doppelarbeit, wer entscheidet was?",
       "ergebnis_6m": "Energieberater*innen und Product/Engineering planen gemeinsam. Erfahrungen aus Projekten fließen systematisch in die Plattform. Weniger Abstimmungsschleifen, Releases mit mehr Praxisnähe."
     },
     {
@@ -268,19 +318,20 @@
       },
       "heute": "Eine Doppelspitze plus drei weitere Mitgründer*innen in Leitungsrollen: ein starkes Team mit kurzen Wegen. Mit wachsendem Leadership-Team steigt aber die Zahl der Entscheidungen, die nicht mehr nebenbei zwischen den Gründer*innen fallen können.",
       "beleg": "Team-Übersicht auf /unternehmen (Co-CEOs, Co-Founder Sales und Marketing)",
-      "erster_schritt": "Leadership-Klausur (1 Tag): Entscheidungsarchitektur klären - was entscheidet wer, was wird delegiert, wie wird eskaliert.",
+      "erster_schritt": "Leadership-Klausur: Entscheidungsarchitektur klären - was entscheidet wer, was wird delegiert, wie wird eskaliert.",
       "ergebnis_6m": "Klare Entscheidungsrechte entlasten das Gründungsteam. Leads entscheiden in ihrem Raum selbst. Das Tempo bleibt, obwohl die Organisation größer wird."
     }
   ],
   "cta": {
     "title": "Lust, das gemeinsam zu sortieren?",
-    "text": "45 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
     "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
     "mailto": "info@dehn-consulting.com",
-    "betreff": "Fuchs & Eule x Dehn Consulting"
+    "betreff": "Fuchs & Eule x DEC"
   },
   "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
-  "disclaimer": "Außenperspektive von Dehn Consulting auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
   "quellen": [
     {
       "titel": "fuchs-eule.de - Unternehmen",
@@ -299,7 +350,8 @@
       "url": "https://www.iz.de/innovationen/news/-10-mio.-euro-fuer-fuchs--eule-2000046063"
     }
   ],
-  "token": "052870"
+  "token": "052870",
+  "analyse_titel": "Potenzial-Analyse"
 }
 </script>
 
@@ -317,6 +369,9 @@
     const dark = matchMedia('(prefers-color-scheme: dark)').matches && document.documentElement.dataset.theme !== 'light';
     if (!dark && L.ci.brand) r.setProperty('--brand', L.ci.brand);
     if (L.ci.accent) r.setProperty('--accent', L.ci.accent);
+    if (L.ci.accent_ink && !dark) r.setProperty('--accent-ink', L.ci.accent_ink);
+    else if (L.ci.accent) r.setProperty('--accent-ink', L.ci.accent);
+    if (L.ci.on_accent) r.setProperty('--on-accent', L.ci.on_accent);
     if (!dark && L.ci.bg) r.setProperty('--bg', L.ci.bg);
     if (L.ci.font) {
       const fontLink = document.createElement('link');
@@ -328,7 +383,16 @@
   }
   document.title = `${L.firma} - Was wird sein`;
 
+  // Absender-Block (für alle Leads gleich, per lead.json "wir" überschreibbar)
+  const DEC_WIR = {
+    titel: 'Wer wir sind',
+    person: 'Dehn Consulting // DEC · Berlin · seit 2018',
+    text: 'DEC ist eine Beratung für Organisationsentwicklung aus Berlin. Wir begleiten Organisationen in Wachstums- und Veränderungsphasen - mit Prozessen, in denen Teams selbst an den richtigen Herausforderungen arbeiten, statt fertige Konzepte zu bekommen. Was für uns zählt, ist Wirkung im Alltag: Werte, die Verhalten verändern, Führung, die mitwächst, und Entscheidungen, die tragen.',
+    tags: ['Organisationsentwicklung', 'Führung & Teams', 'Werte & Kultur', 'Strategieprozesse']
+  };
+
   // Hero
+  $('eyebrow').innerHTML = `${esc(L.analyse_titel || 'Potenzial-Analyse')} <span>· ${esc(L.firma)}</span>`;
   $('kicker').textContent = L.hero.kicker;
   $('title').textContent = L.hero.title;
   $('intro').textContent = L.hero.intro;
@@ -342,8 +406,20 @@
     <div class="pcard"><h3>${esc(k.titel)}</h3><div class="src">${esc(k.quelle)}</div>
     <div class="chips">${k.werte.map(w => `<span class="chip">${esc(w)}</span>`).join('')}</div></div>`).join('');
   $('m-reading').textContent = M.lesart;
-  $('m-stair').innerHTML = M.treppe.map((t, i) =>
-    `${i ? '<span class="arrow">→</span>' : ''}<span><span class="dot" style="background:${gv(t.farbe)}"></span> ${esc(t.label)}</span>`).join(' ');
+  $('m-steps').innerHTML = M.treppe.map((t, i) => `
+    <div class="mstep${i === M.fokus ? ' fokus' : ''}">
+      <div class="mhead"><span class="dot" style="background:${gv(t.farbe)}"></span>${esc(t.label)}</div>
+      ${t.text ? `<p>${esc(t.text)}</p>` : ''}
+      ${i === M.fokus ? '<span class="tag">Hier liegt der Hebel</span>' : ''}
+    </div>`).join('');
+  $('m-move').textContent = M.bewegung || '';
+
+  // Wer wir sind
+  const W = Object.assign({}, DEC_WIR, L.wir || {});
+  $('w-title').textContent = W.titel;
+  $('w-person').textContent = W.person;
+  $('w-text').textContent = W.text;
+  $('w-tags').innerHTML = W.tags.map(x => `<span class="chip">${esc(x)}</span>`).join('');
 
   // Handlungsfelder
   const F = L.handlungsfelder;
@@ -385,7 +461,13 @@
   $('c-title').textContent = C.title;
   $('c-text').textContent = C.text;
   $('c-btn').textContent = C.button;
-  $('c-btn').href = `mailto:${C.mailto}?subject=${encodeURIComponent(C.betreff)}`;
+  if (C.url) {
+    $('c-btn').href = C.url;
+    $('c-btn').target = '_blank';
+    $('c-btn').rel = 'noopener';
+  } else {
+    $('c-btn').href = `mailto:${C.mailto}?subject=${encodeURIComponent(C.betreff)}`;
+  }
   $('disclaimer').textContent = L.disclaimer;
   $('sources').innerHTML = L.quellen.map(q => `<li><a href="${esc(q.url)}" target="_blank" rel="noopener">${esc(q.titel)}</a></li>`).join('');
 })();

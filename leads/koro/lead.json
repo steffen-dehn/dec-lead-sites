@@ -1,0 +1,128 @@
+{
+  "slug": "koro",
+  "firma": "KoRo",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#141414",
+    "accent": "#a41034",
+    "bg": "#f9f5f0",
+    "font": "Outfit",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Von der Online-Marke in alle Kanäle und Länder.",
+    "intro": "Ihr sucht gerade rund 40 neue Kolleg*innen, viele davon in Führungsrollen für Vertrieb, Offline-Handel und internationale Märkte. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie KoRo als Organisation diesen Schritt mitgeht."
+  },
+  "muster": {
+    "title": "Werte bei KoRo",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kund*innen",
+        "quelle": "korodrogerie.de",
+        "werte": [
+          "Geschmack",
+          "Preis & Qualität",
+          "Transparenz",
+          "Klartext"
+        ]
+      },
+      {
+        "titel": "Was eure offenen Stellen zeigen",
+        "quelle": "korodrogerie.de/jobs",
+        "werte": [
+          "Internationale Märkte",
+          "Offline & B2B",
+          "Neue Führungsrollen",
+          "Supply Chain"
+        ]
+      }
+    ],
+    "lesart": "Kund*innen versprecht ihr Klartext, Qualität und faire Preise - eine direkte Marke, die online groß geworden ist. Eure offenen Stellen zeigen den nächsten Schritt: Handel, B2B und neue Länder. Damit verändert sich, wie KoRo arbeitet - von einem Team, das einen Shop betreibt, zu einer Organisation mit vielen Kanälen und Märkten.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Direkte Marke",
+        "text": "Mutig, laut, nah an der Community."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Tragfähige Prozesse",
+        "text": "Supply Chain, Qualität und Abläufe, die Wachstum aushalten."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Neue Kanäle & Märkte",
+        "text": "Handel, B2B und internationale Expansion."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Vernetzte Organisation",
+        "text": "Länder- und Kanalteams steuern sich über gemeinsame Ziele."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht von einer direkten Online-Marke über tragfähige Prozesse und neue Kanäle hin zu einer Organisation, in der Länder- und Kanalteams gemeinsam steuern. Marke und Expansion sind sichtbar. Der Hebel liegt in der Mitte: in Abläufen, die Lieferfähigkeit und Qualität auch dann sichern, wenn Kanäle und Länder dazukommen."
+  },
+  "handlungsfelder": [
+    {
+      "id": "fuehrung",
+      "titel": "Neue Führung schnell wirksam machen",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "Ihr besetzt gleichzeitig mehrere Führungsrollen, vom Director of Sales über Commercial Director B2B & Offline bis zu Head of International Sales und Performance Marketing. Viele neue Führungskräfte auf einmal bringen Energie - und unterschiedliche Vorstellungen davon, wie bei KoRo entschieden wird.",
+      "beleg": "Offene Stellen auf korodrogerie.de/jobs",
+      "erster_schritt": "Onboarding-Werkstatt für neue Führungskräfte mit dem bestehenden Leitungsteam: Wie entscheiden wir, wie arbeiten wir zusammen, was ist uns wichtig?",
+      "ergebnis_6m": "Neue Führungskräfte sind schneller wirksam und ziehen in dieselbe Richtung. Weniger Reibung zwischen bestehenden und neuen Bereichen."
+    },
+    {
+      "id": "kanaele",
+      "titel": "Online-DNA trifft Handel und B2B",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "KoRo ist als Online-Marke groß geworden. Mit Café, Store Locator und eigenen Rollen für Offline-Handel und B2B kommt eine andere Logik dazu: längere Zyklen, Listungen, Key Accounts. Zwei Arbeitsweisen unter einem Dach müssen lernen, sich zu ergänzen.",
+      "beleg": "korodrogerie.de (Café, Store Locator), offene Stellen auf korodrogerie.de/jobs",
+      "erster_schritt": "Schnittstellen-Workshop E-Commerce x Offline & B2B: Wo konkurrieren die Kanäle, wo verstärken sie sich, wer entscheidet was?",
+      "ergebnis_6m": "Klare Spielregeln zwischen den Kanälen. Sortiment, Preise und Kampagnen werden gemeinsam geplant statt gegeneinander optimiert."
+    },
+    {
+      "id": "liefern",
+      "titel": "Lieferfähigkeit als Teamaufgabe",
+      "graves": {
+        "von": "BLAU",
+        "zu": "ORANGE"
+      },
+      "heute": "Nach einem Lagerumzug und einem Bestellansturm kam es laut eurem Blog zu Lieferverzögerungen. Solche Phasen zeigen, wie eng Supply Chain, Kundenservice und Marketing verbunden sind - und wie wichtig es ist, dass sie gemeinsam steuern.",
+      "beleg": "Blog auf korodrogerie.de (Lagerumzug), Stelle Senior Supply Chain Manager auf korodrogerie.de/jobs",
+      "erster_schritt": "Retrospektive mit Supply Chain, Service und Marketing: Was haben wir aus dem Lagerumzug gelernt, was machen wir beim nächsten Wachstumsschub anders?",
+      "ergebnis_6m": "Ein gemeinsames Frühwarnsystem zwischen Marketing, Supply Chain und Service. Kampagnen und Lieferfähigkeit werden zusammen geplant."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "KoRo x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "korodrogerie.de - Startseite",
+      "url": "https://www.korodrogerie.de"
+    },
+    {
+      "titel": "korodrogerie.de - Jobs",
+      "url": "https://www.korodrogerie.de/jobs"
+    }
+  ],
+  "token": "1af2d5"
+}

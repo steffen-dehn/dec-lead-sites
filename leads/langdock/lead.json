@@ -1,0 +1,139 @@
+{
+  "slug": "langdock",
+  "firma": "Langdock",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#1a1c21",
+    "accent": "#ffcc00",
+    "accent_ink": "#1a1c21",
+    "on_accent": "#1a1c21",
+    "bg": "#ffffff",
+    "font": "DM Sans",
+    "font_original": "STK Bureau Sans",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Ihr bringt KI in Organisationen. Eure eigene wächst mit.",
+    "intro": "Über 13.000 Unternehmen nutzen Langdock, euer Team hat sich binnen eines Jahres vervielfacht, und euren Sitz habt ihr gerade zurück nach Deutschland verlegt. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie eure Organisation mit dem Produkt Schritt hält."
+  },
+  "muster": {
+    "title": "Werte bei Langdock",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kund*innen",
+        "quelle": "langdock.com/de",
+        "werte": [
+          "Security-first",
+          "Modellagnostisch",
+          "Enterprise-ready",
+          "Aus Europa, für die Welt"
+        ]
+      },
+      {
+        "titel": "Gegenüber Bewerber*innen",
+        "quelle": "langdock.com/de/careers",
+        "werte": [
+          "Calm urgency",
+          "Ambitious execution",
+          "Caring ownership",
+          "Bleib wegen der Menschen"
+        ]
+      }
+    ],
+    "lesart": "Eure Mission ist, die Lücke zwischen technologischer Innovation und produktiver Nutzung zu schließen. Bei euren Kund*innen ist diese Lücke selten technisch - sie ist organisatorisch. Dasselbe gilt für euch selbst: Ein Team, das sich in kurzer Zeit vervielfacht, braucht mehr als gute Werte auf der Karriereseite, damit 'calm urgency' auch bei hundert Menschen ruhig bleibt.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Gründungs-Tempo",
+        "text": "Schnell liefern, mutig entscheiden."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Ruhige Struktur",
+        "text": "Klare Rollen und Rituale, die Tempo ohne Chaos ermöglichen."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Ambitionierte Umsetzung",
+        "text": "Wachstum, Kund*innen, Wirkung im Markt."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Sich selbst steuerndes Team",
+        "text": "Verantwortung liegt dort, wo das Wissen ist."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht vom Tempo der ersten Monate hin zu einem Team, das sich selbst steuert. 'Calm urgency' beschreibt genau die Mitte: Struktur, die Ruhe schafft, ohne zu bremsen. Je schneller ihr wachst, desto wichtiger wird dieser Schritt."
+  },
+  "handlungsfelder": [
+    {
+      "id": "werte",
+      "titel": "Calm urgency, auch bei dreistelliger Teamgröße",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "Laut eurer Seite wart ihr Ende 2024 zehn Menschen, Anfang 2026 dreißig - und ihr stellt weiter ein. Werte wie 'calm urgency' und 'caring ownership' entstehen in kleinen Teams fast von selbst. Mit jeder neuen Kohorte müssen sie bewusster übersetzt werden: in Onboarding, Rituale und Entscheidungen.",
+      "beleg": "Meilensteine auf langdock.com/de/about-us, Werte auf langdock.com/de/careers",
+      "erster_schritt": "Werte Check-up mit einer Gruppe aus ersten und neuen Mitarbeitenden: Was bedeuten eure drei Werte im Alltag - heute und in einem Jahr?",
+      "ergebnis_6m": "Eure drei Werte haben konkrete Verhaltensanker, die im Onboarding und in Feedbackgesprächen genutzt werden. Neue Kolleg*innen erleben dieselbe Kultur wie die ersten zehn."
+    },
+    {
+      "id": "fuehrung",
+      "titel": "Führung für ein Team, das sich vervielfacht",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Mit wachsendem Team und erweiterter Führungsspitze entstehen neue Führungsrollen, oft besetzt durch Menschen, die zum ersten Mal führen. In einer Firma mit 'ambitious execution' steht Führung schnell zwischen Liefern und Entwickeln.",
+      "beleg": "Team und Rollen auf langdock.com/de/about-us",
+      "erster_schritt": "Führungs-Nugget mit allen Leads: Was heißt Führung bei Langdock, wie verteilen wir Verantwortung, wann eskalieren wir?",
+      "ergebnis_6m": "Ein geteiltes Führungsverständnis und klare Entscheidungsrechte. Leads entwickeln ihre Teams, statt nur zu liefern."
+    },
+    {
+      "id": "adoption",
+      "titel": "Change-Wissen als Teil des Produkts",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Ihr begleitet nach eigener Aussage hunderte KI-Einführungen. Ob KI in Unternehmen wirkt, entscheidet sich oft an Führung, Rollen und den Bedenken der Mitarbeitenden. Dieses Wissen steckt heute vor allem in Customer Success und in Gesprächen mit Kund*innen.",
+      "beleg": "langdock.com/de/about-us (Begleitung hunderter KI-Einführungen)",
+      "erster_schritt": "Praxis-Werkstatt mit Customer Success: Welche organisatorischen Muster sehen wir bei erfolgreichen und bei stockenden KI-Einführungen?",
+      "ergebnis_6m": "Ein Leitfaden zur organisatorischen Seite von KI-Einführungen, den euer Team bei Kund*innen nutzt. Die Nutzung steigt, weil ihr Bedenken früher adressiert."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Langdock x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "langdock.com - Startseite",
+      "url": "https://www.langdock.com/de"
+    },
+    {
+      "titel": "langdock.com - Über uns",
+      "url": "https://langdock.com/de/about-us"
+    },
+    {
+      "titel": "langdock.com - Karriere",
+      "url": "https://langdock.com/de/careers"
+    },
+    {
+      "titel": "Tagesspiegel Background: Langdock verlegt Sitz zurück nach Deutschland",
+      "url": "https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/langdock-verlegt-sitz-zurueck-nach-deutschland"
+    }
+  ],
+  "token": "09d5a5"
+}

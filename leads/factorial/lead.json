@@ -1,0 +1,128 @@
+{
+  "slug": "factorial",
+  "firma": "Factorial Deutschland",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#25253d",
+    "accent": "#e51943",
+    "bg": "#ffffff",
+    "font": "Inter",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Ein Kauf, zwei Kulturen - und Deutschland als wichtigster Markt.",
+    "intro": "Mit der Übernahme von Empion holt ihr KI-gestützte Talentbewertung ins Produkt und ein Berliner Team ins Unternehmen. Deutschland nennt ihr euren wichtigsten Markt in Europa. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie aus der Übernahme ein gemeinsames Team wird."
+  },
+  "muster": {
+    "title": "Werte bei Factorial",
+    "sub": "Was ihr nach außen kommuniziert - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Was Factorial kommuniziert",
+        "quelle": "factorial.com/blog",
+        "werte": [
+          "Deutschland als Schlüsselmarkt",
+          "Lokale Präsenz",
+          "Native Bewertungen",
+          "Kontinuität für Kund*innen"
+        ]
+      },
+      {
+        "titel": "Was Empion mitbringt",
+        "quelle": "factorial.com/blog",
+        "werte": [
+          "Kulturpassung",
+          "Fähigkeiten",
+          "Motivation",
+          "Berliner KI-Team"
+        ]
+      }
+    ],
+    "lesart": "Factorial bringt Skalierung und eine internationale Plattform, Empion ein Berliner Team mit eigenem Produkt und eigenem Rhythmus. Ausgerechnet ein Unternehmen, das Kulturpassung messbar macht, wird nun selbst Teil einer neuen Kultur. Wie gut diese Integration gelingt, ist auch ein Beleg für euer eigenes Produktversprechen.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Startup-Energie",
+        "text": "Teams, die schnell bauen und entscheiden."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Gemeinsame Strukturen",
+        "text": "Klare Rollen, Prozesse und Verantwortung im neuen Verbund."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Marktführerschaft",
+        "text": "Wachstum im wichtigsten europäischen Markt."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Ein Team, zwei Herkünfte",
+        "text": "Integration, in der beide Seiten ihre Stärken einbringen."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht von zwei Teams mit eigener Startup-Energie über gemeinsame Strukturen und Marktwachstum hin zu einem Team, in dem beide Herkünfte ihre Stärken einbringen. Energie und Marktambition sind da. Der Hebel liegt in der Mitte: in Strukturen, die das Empion-Team integrieren, ohne seine Geschwindigkeit zu verlieren."
+  },
+  "handlungsfelder": [
+    {
+      "id": "integration",
+      "titel": "Das Empion-Team integrieren",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "Technologie und Team von Empion sollen langfristig vollständig in Factorials Bewertungsprodukte integriert werden. Für die Kolleg*innen aus Berlin ändern sich damit Rollen, Entscheidungswege und Prioritäten - während Bestandskund*innen ohne Unterbrechung weiter betreut werden.",
+      "beleg": "Blogbeitrag zur Übernahme auf factorial.com",
+      "erster_schritt": "Integrations-Werkstatt mit beiden Teams: Was wollen wir behalten, was verändern, was erwarten wir voneinander?",
+      "ergebnis_6m": "Ein gemeinsamer Integrationsfahrplan mit klaren Rollen. Das Berliner Team bleibt an Bord und bringt seine Stärken in die gemeinsame Roadmap ein."
+    },
+    {
+      "id": "leadership",
+      "titel": "Das deutsche Leadership-Team als eine Einheit",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Mit der Übernahme wächst das Leadership-Team in Deutschland um eine Gründerin mit eigener Unternehmenserfahrung. Unterschiedliche Führungsbiografien treffen aufeinander, während der deutsche Markt Priorität hat.",
+      "beleg": "Blogbeitrag zur Übernahme auf factorial.com",
+      "erster_schritt": "Leadership-Klausur des deutschen Teams: Wofür stehen wir gemeinsam, wie entscheiden wir, wie arbeiten wir mit der Zentrale?",
+      "ergebnis_6m": "Ein Leadership-Team mit gemeinsamen Zielen und klaren Entscheidungswegen. Weniger Abstimmungsschleifen mit der Zentrale."
+    },
+    {
+      "id": "kultur",
+      "titel": "Kultur als Teil des Produktversprechens",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Empion bewertet Kulturpassung, Fähigkeiten und Motivation. Wenn ihr Kund*innen dabei unterstützt, Kultur ernst zu nehmen, wird eure eigene Integration zum Beispiel - nach innen wie nach außen.",
+      "beleg": "Blogbeitrag zur Übernahme auf factorial.com (Kulturpassungs-Bewertungen)",
+      "erster_schritt": "Werte Check-up mit einer gemischten Gruppe aus Factorial und Empion: individuell, heute, zukünftig - was verbindet, wo reibt es?",
+      "ergebnis_6m": "Gemeinsame Werte mit Verhaltensankern, die das deutsche Team trägt - und eine Integrationsgeschichte, die ihr auch Kund*innen erzählen könnt."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Factorial Deutschland x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "factorial.com: Factorial übernimmt Empion",
+      "url": "https://factorial.com/blog/factorial-acquires-german-ai-start-up-empion/"
+    },
+    {
+      "titel": "deutsche-startups.de, 03.09.2026",
+      "url": "https://www.deutsche-startups.de/2026/09/03/zeit-ai-sammelt-5-millionen-ein-factorial-kauft-empion/"
+    }
+  ],
+  "token": "ce4368"
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "dsb",
+  "firma": "Deutsche Sanierungsberatung",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#102c54",
+    "accent": "#5047d8",
+    "bg": "#f7f6ff",
+    "font": "Inter",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "In zwei Jahren auf über 200 Menschen. Und weiter.",
+    "intro": "Seit der Gründung 2024 habt ihr über 11.000 Sanierungsfahrpläne erstellt, im Juli 10 Mio. Euro eingesammelt und arbeitet mit über 200 Kolleg*innen in Berlin. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie aus diesem Tempo eine Kultur wird."
+  },
+  "muster": {
+    "title": "Werte bei dsb",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Hausbesitzer*innen",
+        "quelle": "deutsche-sanierungsberatung.de",
+        "werte": [
+          "Ein Ansprechpartner",
+          "Geprüfte Fachbetriebe",
+          "Von der Beratung bis zum fertigen Haus",
+          "Sanierungsstau auflösen"
+        ]
+      },
+      {
+        "titel": "Gegenüber Bewerber*innen",
+        "quelle": "deutsche-sanierungsberatung.de/karriere",
+        "werte": [
+          "Echt",
+          "Nachhaltig",
+          "Wir",
+          "Ehrliche Beratung",
+          "Verantwortung übernehmen"
+        ]
+      }
+    ],
+    "lesart": "Hausbesitzer*innen versprecht ihr Sicherheit, Einfachheit und ehrliche Beratung. Intern wächst ein Team in Rekordtempo, das gleichzeitig neue Geschäftsfelder wie B2B und einen eigenen Stromtarif aufbaut. 'Wir' ist bei zwanzig Menschen ein Gefühl - bei über zweihundert ist es eine Gestaltungsaufgabe.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Gründungs-Tempo",
+        "text": "Schnell wachsen, anpacken, Chancen nutzen."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Verlässliche Abläufe",
+        "text": "Standards, die Qualität bei tausenden Beratungen sichern."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Wachstum & neue Felder",
+        "text": "B2B, Stromtarif und neue Angebote."
+      },
+      {
+        "farbe": "GRUEN",
+        "label": "Ein echtes Wir",
+        "text": "Ein Team, das sich trotz Wachstum als Gemeinschaft erlebt."
+      }
+    ],
+    "fokus": 3,
+    "bewegung": "Eure Bewegung geht vom Gründungstempo über verlässliche Abläufe und neue Geschäftsfelder hin zu einem 'Wir', das auch bei mehreren hundert Menschen trägt. Tempo und Wachstum sind spürbar. Der Hebel liegt darin, euren eigenen Wert 'Wir' bewusst zu gestalten, bevor er im Wachstum verschwimmt."
+  },
+  "handlungsfelder": [
+    {
+      "id": "wir",
+      "titel": "Ein 'Wir' für über 200 Menschen",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "GRUEN"
+      },
+      "heute": "'Echt. Nachhaltig. Wir.' ist eure Kernbotschaft an Bewerber*innen. In weniger als zwei Jahren sind über 200 Menschen dazugekommen, aus ganz unterschiedlichen Berufen - Energieberatung, Vertrieb, Förderservice, Tech. Was 'Wir' konkret bedeutet, entscheidet sich im Alltag zwischen diesen Teams.",
+      "beleg": "Karriereseite und Startseite deutsche-sanierungsberatung.de",
+      "erster_schritt": "Werte Check-up mit einer gemischten Gruppe aus allen Bereichen: Was heißt 'Echt. Nachhaltig. Wir.' heute - und was soll es in einem Jahr heißen?",
+      "ergebnis_6m": "Eure drei Werte haben konkrete Verhaltensanker, die in Onboarding, Feedback und Führung genutzt werden. Neue Kolleg*innen finden schneller ihren Platz."
+    },
+    {
+      "id": "felder",
+      "titel": "Neue Geschäftsfelder neben dem Kerngeschäft",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Mit der Finanzierung baut ihr B2B und einen eigenen KI-Stromtarif auf - neben einem Kerngeschäft, das täglich neue Kund*innen bedient. Neue Felder brauchen Freiraum, das Kerngeschäft braucht Stabilität. Beides aus denselben Köpfen zu steuern, ist eine der anspruchsvollsten Phasen im Wachstum.",
+      "beleg": "raising.fi vom 21.07.2026, KI-Stromtarif auf deutsche-sanierungsberatung.de",
+      "erster_schritt": "Leadership-Klausur: Wie trennen und verbinden wir Kerngeschäft und neue Felder - Ziele, Ressourcen, Entscheidungen?",
+      "ergebnis_6m": "Klare Prioritäten und Verantwortlichkeiten für Kern und neue Felder. Das Kerngeschäft bleibt stabil, während neue Produkte schneller lernen."
+    },
+    {
+      "id": "fuehrung",
+      "titel": "Führungskräfte, die mit dem Team wachsen",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "Bei diesem Wachstum übernehmen viele Menschen früh Führungsverantwortung. Mit eigenen Rollen für Chief of Staff und HR habt ihr bereits begonnen, Strukturen bewusst aufzubauen. Jetzt geht es darum, dass Teamleitungen ihre Rolle sicher ausfüllen.",
+      "beleg": "Team auf deutsche-sanierungsberatung.de/karriere",
+      "erster_schritt": "Führungs-Nugget mit allen Teamleitungen: Was erwarten wir von Führung bei dsb, was brauchen Teamleitungen dafür?",
+      "ergebnis_6m": "Ein gemeinsames Führungsverständnis. Teamleitungen führen sicherer, Konflikte werden früher geklärt, das Gründungsteam wird entlastet."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Deutsche Sanierungsberatung x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "deutsche-sanierungsberatung.de - Startseite",
+      "url": "https://www.deutsche-sanierungsberatung.de"
+    },
+    {
+      "titel": "deutsche-sanierungsberatung.de - Karriere",
+      "url": "https://www.deutsche-sanierungsberatung.de/karriere"
+    },
+    {
+      "titel": "raising.fi, 21.07.2026: Series A",
+      "url": "https://raising.fi/news/deutsche-sanierungsberatung-dsb-series-a-july-2026"
+    }
+  ],
+  "token": "8733c0"
+}

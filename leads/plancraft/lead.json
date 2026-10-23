@@ -1,0 +1,130 @@
+{
+  "slug": "plancraft",
+  "firma": "plancraft",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#112f32",
+    "accent": "#29ffbf",
+    "accent_ink": "#112f32",
+    "on_accent": "#112f32",
+    "bg": "#f8f8f8",
+    "font": "Kanit",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "KI für das Handwerk - und ein Team in mehreren Ländern.",
+    "intro": "Über 30.000 Handwerker*innen arbeiten mit plancraft, euer Team hat sich seit der Series A mehr als verdoppelt, und mit der Series B setzt ihr voll auf KI. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie eure Organisation diesen Sprung mitgeht."
+  },
+  "muster": {
+    "title": "Werte bei plancraft",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Handwerker*innen",
+        "quelle": "plancraft.com/de",
+        "werte": [
+          "Damit dein Büro läuft",
+          "Einfach",
+          "Persönlicher Support",
+          "Deine Daten gehören dir"
+        ]
+      },
+      {
+        "titel": "Für die nächste Phase",
+        "quelle": "htgf.de, Meldung zur Series B",
+        "werte": [
+          "AI-first",
+          "Europäisches Handwerk",
+          "Agenten statt Formulare",
+          "Mehrere Länder"
+        ]
+      }
+    ],
+    "lesart": "Handwerker*innen versprecht ihr Einfachheit und persönlichen Support - Software, die das Büro entlastet. Gleichzeitig baut ihr eine KI-first-Plattform in mehreren Ländern. Das verändert eure eigene Organisation: Product, Support und Vertrieb müssen schneller lernen, während der persönliche Draht zu den Betrieben erhalten bleiben soll.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Nähe zum Handwerk",
+        "text": "Persönlicher Support und Verständnis für den Betriebsalltag."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Klare Abläufe",
+        "text": "Strukturen, die Wachstum in mehreren Ländern tragen."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "KI & Skalierung",
+        "text": "Neue Produkte, neue Märkte, mehr Wirkung."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Lernendes Team",
+        "text": "Product, Support und Märkte lernen gemeinsam und schnell."
+      }
+    ],
+    "fokus": 3,
+    "bewegung": "Eure Bewegung geht von großer Nähe zum Handwerk über klare Abläufe und KI-getriebenes Wachstum hin zu einem Team, das über Länder und Funktionen hinweg gemeinsam lernt. Nähe und Tempo sind da. Der Hebel liegt darin, dass Wissen aus Support und Märkten schneller in die KI-Entwicklung fließt."
+  },
+  "handlungsfelder": [
+    {
+      "id": "naehe",
+      "titel": "Nähe zum Handwerk trotz Wachstum",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "BLAU"
+      },
+      "heute": "Eure Kund*innen loben vor allem den persönlichen und schnellen Support. Mit mehr als doppelt so vielen Mitarbeitenden und Teams in mehreren Ländern wird es schwerer, diese Nähe in jedem Team gleich zu leben.",
+      "beleg": "Kundenstimmen auf plancraft.com/de, Teamwachstum laut htgf.de",
+      "erster_schritt": "Werte Check-up mit Support, Vertrieb und Product: Was macht unsere Nähe zum Handwerk aus - und wie bleibt sie bei weiterem Wachstum erhalten?",
+      "ergebnis_6m": "Konkrete Verhaltensanker für 'Nähe zum Handwerk', die in Onboarding und Zielen verankert sind. Neue Teams erleben dieselbe Kundenhaltung."
+    },
+    {
+      "id": "ki",
+      "titel": "KI-first als Organisationsfrage",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Mit der Series B wollt ihr KI-Agenten für Angebote, Kundenkommunikation und Prozesse bauen. KI-first verändert nicht nur das Produkt, sondern auch, wie Teams arbeiten, priorisieren und miteinander lernen.",
+      "beleg": "htgf.de, Meldung zur Series B; KI-Funktionen auf plancraft.com/de",
+      "erster_schritt": "Zielbild-Workshop mit Product, Engineering und Customer Success: Was heißt KI-first für unsere Zusammenarbeit?",
+      "ergebnis_6m": "Ein gemeinsames Zielbild und klare Rituale zwischen Product und Kundenteams. Erkenntnisse aus dem Support fließen systematisch in die KI-Roadmap."
+    },
+    {
+      "id": "laender",
+      "titel": "Ein Team in mehreren Ländern",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Mit Teams in Deutschland, Österreich, den Niederlanden und Italien wird plancraft international. Länderteams brauchen Spielraum für ihren Markt - und gemeinsame Standards, damit plancraft überall dasselbe Produkt und dieselbe Haltung bleibt.",
+      "beleg": "htgf.de, Meldung zur Series B",
+      "erster_schritt": "Workshop mit den Länderverantwortlichen: Was entscheiden die Länder selbst, was zentral, wie lernen wir voneinander?",
+      "ergebnis_6m": "Klare Spielregeln zwischen Zentrale und Ländern. Neue Märkte starten schneller, weil sie auf erprobte Abläufe aufsetzen."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "plancraft x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "plancraft.com - Startseite",
+      "url": "https://plancraft.com/de"
+    },
+    {
+      "titel": "HTGF: 38 Millionen für plancraft",
+      "url": "https://www.htgf.de/plancraft-series-b/"
+    }
+  ],
+  "token": "027038"
+}

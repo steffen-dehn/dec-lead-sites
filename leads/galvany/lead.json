@@ -1,0 +1,135 @@
+{
+  "slug": "galvany",
+  "firma": "GALVANY",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#101828",
+    "accent": "#ff9101",
+    "accent_ink": "#101828",
+    "on_accent": "#101828",
+    "bg": "#f9f9f8",
+    "font": "Inter",
+    "font_original": "TT Interphases Pro",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Siebenfaches Wachstum - und jetzt in die Breite.",
+    "intro": "Ihr habt euren Umsatz 2025 auf über 20 Mio. Euro versiebenfacht, profitabel eine Seed-Runde abgeschlossen und baut Vertrieb und Partnernetz bundesweit aus. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, ob eure Organisation mit diesem Tempo mitwächst."
+  },
+  "muster": {
+    "title": "Werte bei GALVANY",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kund*innen",
+        "quelle": "galvany.de/ueber-uns",
+        "werte": [
+          "Die Wärmepumpe für alle",
+          "Alles aus einer Hand",
+          "Lokales Handwerk, smart koordiniert",
+          "Klare Kosten"
+        ]
+      },
+      {
+        "titel": "Gegenüber Bewerber*innen",
+        "quelle": "galvany.de/karriere",
+        "werte": [
+          "Wille, Dinge besser zu machen",
+          "Impact",
+          "Wachstum & Verantwortung",
+          "Füreinander"
+        ]
+      }
+    ],
+    "lesart": "Kund*innen versprecht ihr Einfachheit: ein Ansprechpartner, klare Kosten, planbarer Ablauf. Dahinter steht ein System aus Vertrieb, Planung, Lager, Produktion und Handwerk vor Ort, das bei siebenfachem Wachstum enorm unter Druck steht. 'Alles aus einer Hand' funktioniert nur, wenn intern viele Hände reibungslos ineinandergreifen.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Macher-Tempo",
+        "text": "Anpacken, Chancen nutzen, schnell wachsen."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Verlässliche Abläufe",
+        "text": "Standards und klare Übergaben von der Anfrage bis zur Montage."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Skalierung & Wirkung",
+        "text": "Mehr Regionen, mehr Partner, mehr Haushalte."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Vernetztes System",
+        "text": "Teams, Partnerbetriebe und Plattform steuern sich gemeinsam."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht vom Macher-Tempo eines jungen Unternehmens hin zu einem vernetzten System aus Plattform, Teams und Partnerbetrieben. Tempo und Skalierung sind da. Der Hebel liegt in der Mitte: in verlässlichen Abläufen, die bei jedem neuen Partnerbetrieb und jeder neuen Region gleich gut funktionieren."
+  },
+  "handlungsfelder": [
+    {
+      "id": "kette",
+      "titel": "Die Kette von Anfrage bis Montage",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Von der Online-Anfrage über den technischen Check bis zur Montage durchläuft jeder Auftrag mehrere Teams: Growth, Operations, Production, Customer Success und Partnerbetriebe vor Ort. Bei über 2.500 installierten Anlagen und schnell steigender Nachfrage entscheidet die Qualität dieser Übergaben über Kundenerlebnis und Marge.",
+      "beleg": "Ablauf auf galvany.de, Teams auf galvany.de/karriere, solarserver.de vom 08.06.2026",
+      "erster_schritt": "Schnittstellen-Workshop entlang der Kundenreise: Wo hakt es zwischen Vertrieb, Planung, Lager und Montage, und wer entscheidet was?",
+      "ergebnis_6m": "Klare Übergaben und Verantwortlichkeiten entlang der ganzen Kette. Weniger Nacharbeit, planbarere Termine und Teams, die sich als ein System verstehen."
+    },
+    {
+      "id": "partner",
+      "titel": "Partnerbetriebe als Teil des Teams",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "BLAU"
+      },
+      "heute": "Ihr setzt auf lokales Handwerk, smart koordiniert, und wollt das Netz an Partnerbetrieben bundesweit ausbauen. Für Handwerksbetriebe ist das eine neue Art der Zusammenarbeit: digitale Prozesse, gemeinsame Standards, ein gemeinsames Kundenversprechen. Ob sie mitziehen, entscheidet sich an der Beziehung, nicht an der Software.",
+      "beleg": "galvany.de/ueber-uns, Pläne laut solarserver.de vom 08.06.2026",
+      "erster_schritt": "Partner-Werkstatt mit erfahrenen Partnerbetrieben: Was läuft gut, was frustriert, was brauchen neue Betriebe, um schnell gut zu arbeiten?",
+      "ergebnis_6m": "Ein erprobter Einstieg für neue Partnerbetriebe und klare Spielregeln der Zusammenarbeit. Partner empfehlen GALVANY als Auftraggeber weiter."
+    },
+    {
+      "id": "fuehrung",
+      "titel": "Führung im Hochwachstum",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "Acht Bereiche von Tech & Product bis People & Legal, ein Lager, eine Produktion - und ein Umsatz, der sich in einem Jahr versiebenfacht hat. Viele Führungskräfte führen ihr Team zum ersten Mal in dieser Größe. 'Wachstum & Verantwortung' wird damit zur Führungsaufgabe.",
+      "beleg": "Teams und Werte auf galvany.de/karriere, Umsatz laut solarserver.de",
+      "erster_schritt": "Führungs-Nugget mit allen Teamleads: Was heißt Verantwortung bei GALVANY - und was brauchen Teamleads, um sie zu übernehmen?",
+      "ergebnis_6m": "Ein gemeinsames Führungsverständnis über alle Bereiche. Teamleads entscheiden sicherer selbst, das Gründungsteam wird entlastet."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "GALVANY x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "galvany.de - Über uns",
+      "url": "https://galvany.de/ueber-uns"
+    },
+    {
+      "titel": "galvany.de - Karriere",
+      "url": "https://galvany.de/karriere"
+    },
+    {
+      "titel": "solarserver.de, 08.06.2026: Galvany sammelt 10 Mio. Euro ein",
+      "url": "https://www.solarserver.de/2026/06/08/waermepumpen-installationsplattform-galvany-sammelt-10-millionen-euro-ein/"
+    }
+  ],
+  "token": "a54aff"
+}

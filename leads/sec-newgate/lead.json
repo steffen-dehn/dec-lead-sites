@@ -1,0 +1,126 @@
+{
+  "slug": "sec-newgate",
+  "firma": "SEC Newgate Deutschland",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#16093e",
+    "accent": "#ff8300",
+    "accent_ink": "#16093e",
+    "on_accent": "#16093e",
+    "bg": "#f9f9fb",
+    "font": "Figtree",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Neuaufstellung in Deutschland - ein Jahr danach.",
+    "intro": "Vor einem Jahr hat SEC Newgate Germany eine neue Geschäftsführung bekommen, verbunden mit dem Auftrag, die deutschen Gesellschaften und Partnerunternehmen neu aufzustellen und zu wachsen. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie aus der Neuaufstellung ein gemeinsames Team wird."
+  },
+  "muster": {
+    "title": "Werte bei SEC Newgate",
+    "sub": "Was ihr nach außen zeigt - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kund*innen",
+        "quelle": "secnewgate.com",
+        "werte": [
+          "Corporate Affairs",
+          "Reputation",
+          "Krisen- und Stakeholder-Management",
+          "Advocacy"
+        ]
+      },
+      {
+        "titel": "Für das deutsche Geschäft",
+        "quelle": "secnewgate.com, Oktober 2025",
+        "werte": [
+          "Neuaufstellung",
+          "Wachstum",
+          "Sichtbarkeit",
+          "Neue Form der Beratung"
+        ]
+      }
+    ],
+    "lesart": "Ihr beratet Unternehmen in heiklen Momenten - Krisen, Reputation, Stakeholder. Gleichzeitig befindet ihr euch selbst in einer Neuaufstellung, mit mehreren Gesellschaften und Partnerunternehmen unter einem Dach. Beratungen in dieser Phase stehen vor der Frage, ob sie intern so klar aufgestellt sind, wie sie es bei ihren Kund*innen anstreben.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Unternehmergeist",
+        "text": "Partner*innen mit eigenem Profil und eigenen Mandaten."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Gemeinsame Aufstellung",
+        "text": "Klare Strukturen zwischen Gesellschaften und Partnerunternehmen."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Wachstum & Sichtbarkeit",
+        "text": "Profil und Marktanteil im deutschen Markt."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Vernetzte Beratung",
+        "text": "Teams kombinieren Expertise über Einheiten hinweg."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht von unternehmerischen Einheiten mit eigenem Profil über eine gemeinsame Aufstellung und mehr Sichtbarkeit hin zu einer Beratung, die Expertise über Einheiten hinweg kombiniert. Unternehmergeist und Wachstumsambition sind da. Der Hebel liegt in der gemeinsamen Aufstellung: Sie entscheidet, ob Kund*innen ein SEC Newgate erleben."
+  },
+  "handlungsfelder": [
+    {
+      "id": "einheiten",
+      "titel": "Gesellschaften und Partner als ein Team",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "Die Neuaufstellung umfasst mehrere deutsche Gesellschaften und Partnerunternehmen. Jede bringt eigene Mandate, Netzwerke und Arbeitsweisen mit. Für Kund*innen soll daraus ein Angebot werden - intern braucht es dafür gemeinsame Spielregeln.",
+      "beleg": "Pressemitteilung auf secnewgate.com, Oktober 2025",
+      "erster_schritt": "Leadership-Klausur mit den Verantwortlichen der Einheiten: Wie arbeiten wir zusammen, wie teilen wir Mandate, wie entscheiden wir?",
+      "ergebnis_6m": "Klare Spielregeln zwischen den Einheiten. Mandate werden häufiger gemeinsam gewonnen und bearbeitet."
+    },
+    {
+      "id": "profil",
+      "titel": "Ein neues Beratungsprofil nach innen tragen",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Die neue Geschäftsführung will eine neue Form der Corporate-Affairs-Beratung etablieren. Ein neues Profil wirkt erst, wenn Berater*innen es im Mandatsalltag leben - in Angeboten, Teams und im Umgang mit Kund*innen.",
+      "beleg": "Pressemitteilung auf secnewgate.com, Oktober 2025",
+      "erster_schritt": "Zielbild-Workshop mit Berater*innen aller Ebenen: Was unterscheidet unsere Beratung künftig - und was heißt das für unseren Alltag?",
+      "ergebnis_6m": "Ein gemeinsames Zielbild, das sich in Angeboten und Teamaufstellungen zeigt. Neue Kolleg*innen verstehen schnell, wofür SEC Newgate in Deutschland steht."
+    },
+    {
+      "id": "kapazitaet",
+      "titel": "Wachstum, das das Team mitträgt",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GRUEN"
+      },
+      "heute": "Wachstum in Beratungen heißt mehr Mandate bei begrenzter Kapazität. Ohne bewusste Steuerung landen neue Aufgaben schnell bei denselben erfahrenen Köpfen, während Nachwuchs zu wenig Verantwortung bekommt.",
+      "beleg": "Wachstumsziele laut Pressemitteilung auf secnewgate.com",
+      "erster_schritt": "Werkstatt 'Ungeplante Arbeit sichtbar machen': Wo entsteht Last, wie verteilen wir Mandate und Entwicklungschancen fairer?",
+      "ergebnis_6m": "Transparenz über Auslastung und klare Kriterien für die Mandatsverteilung. Erfahrene Berater*innen sind entlastet, Nachwuchs wächst schneller."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "SEC Newgate Deutschland x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "secnewgate.com, Oktober 2025: Neue Geschäftsführung in Deutschland",
+      "url": "https://secnewgate.com/news/sec-newgate-strengthens-german-business-with-appointment-of-dr-sebastian-schwark-as-ceo/"
+    }
+  ],
+  "token": "4aaf5b"
+}

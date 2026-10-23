@@ -1,0 +1,130 @@
+{
+  "slug": "dfg",
+  "firma": "DFG",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#003e85",
+    "accent": "#009fda",
+    "accent_ink": "#00529e",
+    "on_accent": "#002a5c",
+    "bg": "#ffffff",
+    "font": "Roboto",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Transformation der Geschäftsstelle - mit Digitalisierung und KI.",
+    "intro": "Ihr baut Organisationsentwicklung und Transformation eurer Geschäftsstelle gezielt aus und setzt dabei auf Digitalisierung, Künstliche Intelligenz und neue Arbeitsweisen. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie dieser Wandel bei rund 1.000 Mitarbeitenden ankommt."
+  },
+  "muster": {
+    "title": "Werte der DFG-Geschäftsstelle",
+    "sub": "Was ihr nach außen zeigt - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Als Arbeitgeberin",
+        "quelle": "dfg.de, Karriereseite",
+        "werte": [
+          "Mensch im Mittelpunkt",
+          "Kollegialer Umgang",
+          "Austausch und Vernetzung",
+          "Chancengleichheit und Diversität"
+        ]
+      },
+      {
+        "titel": "Was die Ausschreibung zeigt",
+        "quelle": "Gruppenleitung OE und Transformation",
+        "werte": [
+          "Digitalisierung",
+          "Künstliche Intelligenz",
+          "Neue Arbeitsweisen",
+          "Strategische Beratung der Leitung"
+        ]
+      }
+    ],
+    "lesart": "Als Arbeitgeberin stellt ihr den Menschen und den kollegialen Umgang in den Mittelpunkt. Die Transformation, die ihr jetzt angeht, ist stark technologisch getrieben. Beides gehört zusammen - wenn Digitalisierung und KI so eingeführt werden, dass Mitarbeitende sie mitgestalten und nicht nur erleben.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Kollegiale Gemeinschaft",
+        "text": "Ein Haus mit gewachsenem Zusammenhalt."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Verlässliche Verfahren",
+        "text": "Sorgfältige, faire Förderverfahren und Verwaltung."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Digitale Effizienz",
+        "text": "Digitalisierung und KI für bessere Abläufe."
+      },
+      {
+        "farbe": "GRUEN",
+        "label": "Mitgestaltung",
+        "text": "Mitarbeitende gestalten neue Arbeitsweisen aktiv mit."
+      }
+    ],
+    "fokus": 3,
+    "bewegung": "Eure Bewegung geht von kollegialer Gemeinschaft und verlässlichen Verfahren über digitale Effizienz hin zu einer Geschäftsstelle, in der Mitarbeitende neue Arbeitsweisen mitgestalten. Verfahrensqualität und digitaler Anspruch sind da. Der Hebel liegt darin, die Transformation so zu gestalten, dass sie den Menschen in den Mittelpunkt stellt - so, wie ihr es als Arbeitgeberin versprecht."
+  },
+  "handlungsfelder": [
+    {
+      "id": "oe-gruppe",
+      "titel": "Die OE-Gruppe wirksam machen",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Mit einer Gruppenleitung für Organisationsentwicklung und Transformation schafft ihr eine Einheit, die die Leitungsebenen strategisch berät und den Wandel begleitet. Neue OE-Einheiten wirken dann am stärksten, wenn ihr Auftrag und ihr Spielraum früh mit allen Leitungsebenen geklärt sind.",
+      "beleg": "Stellenausschreibung Gruppenleitung Organisationsentwicklung und Transformation",
+      "erster_schritt": "Auftragsklärung mit Leitung und Abteilungsleitungen: Welche Probleme soll die OE-Gruppe lösen, welchen Spielraum hat sie, woran messen wir Erfolg?",
+      "ergebnis_6m": "Ein geteilter Auftrag und eine Roadmap für die OE-Gruppe. Abteilungen erleben sie als Unterstützung und holen sie aktiv dazu."
+    },
+    {
+      "id": "ki",
+      "titel": "KI im Förderalltag verankern",
+      "graves": {
+        "von": "BLAU",
+        "zu": "ORANGE"
+      },
+      "heute": "Digitalisierung und KI sollen die Transformation der Geschäftsstelle vorantreiben. In einer Organisation, deren Kern sorgfältige und faire Verfahren sind, wirft das berechtigte Fragen auf: Was darf automatisiert werden, wo bleibt menschliches Urteil, wie verändern sich Rollen?",
+      "beleg": "Stellenausschreibung (Transformation durch Digitalisierung und KI)",
+      "erster_schritt": "Praxis-Werkstatt mit einer Fachabteilung: Wo kann KI entlasten, welche Bedenken gibt es, welche Leitplanken brauchen wir?",
+      "ergebnis_6m": "Erste KI-Anwendungen mit klaren Leitplanken, die von den Fachabteilungen getragen werden. Bedenken sind adressiert statt ausgesessen."
+    },
+    {
+      "id": "arbeitsweisen",
+      "titel": "Neue Arbeitsweisen mit den Mitarbeitenden",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "GRUEN"
+      },
+      "heute": "Neue Arbeitsweisen in einer Geschäftsstelle mit rund 1.000 Menschen betreffen Teams mit sehr unterschiedlichen Aufgaben - von Fachreferaten bis zur Verwaltung. Eure Mitarbeitendenbefragung und euer Anspruch, den Menschen in den Mittelpunkt zu stellen, sind dafür eine gute Basis.",
+      "beleg": "Karriereseite dfg.de (Werte, Mitarbeitendenbefragung)",
+      "erster_schritt": "Zielbild-Workshop mit einer abteilungsübergreifenden Gruppe: Wie wollen wir in der Geschäftsstelle 2030 zusammenarbeiten?",
+      "ergebnis_6m": "Ein gemeinsames Zielbild der Zusammenarbeit, das die Transformation leitet. Mitarbeitende erkennen ihre eigenen Anliegen darin wieder."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "DFG x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "dfg.de - Karriere",
+      "url": "https://www.dfg.de/de/ueber-uns/geschaeftsstelle/karriereseite"
+    },
+    {
+      "titel": "Stellenausschreibung Gruppenleitung OE und Transformation",
+      "url": "https://www.remotely.de/job/deutsche-forschungsgemeinschaft-ev-dfg-gruppenleiterin-organisationsentwicklung-und-transformation"
+    }
+  ],
+  "token": "b3983a"
+}

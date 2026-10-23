@@ -1,0 +1,128 @@
+{
+  "slug": "talon-one",
+  "firma": "Talon.One",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#02043b",
+    "accent": "#0061ff",
+    "bg": "#faf9f5",
+    "font": "Outfit",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Das nächste Kapitel: Talon.One als Teil von Adyen.",
+    "intro": "Seit Juli gehört ihr zu Adyen, die Integration eurer Promotion-Engine läuft. Über 300 Menschen aus mehr als 55 Nationen arbeiten bei euch in Berlin, London, Boston und Singapur. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie euer Team dieses Kapitel gestaltet."
+  },
+  "muster": {
+    "title": "Werte bei Talon.One",
+    "sub": "Was ihr nach außen zeigt - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kund*innen",
+        "quelle": "talon.one",
+        "werte": [
+          "Make every interaction count",
+          "Open by design",
+          "Flexibel",
+          "Agentic commerce"
+        ]
+      },
+      {
+        "titel": "Über euch selbst",
+        "quelle": "talon.one/about-us",
+        "werte": [
+          "Ownership",
+          "Clarity",
+          "Teamwork",
+          "Neugier"
+        ]
+      }
+    ],
+    "lesart": "Ihr habt ein eigenständiges Unternehmen mit eigener Kultur aufgebaut - Ownership, Clarity, Teamwork. Jetzt seid ihr Teil eines großen, börsennotierten Payment-Unternehmens mit ebenso ausgeprägter Kultur. In solchen Phasen ist Klarheit das knappste Gut: Was bleibt, was ändert sich, wer entscheidet?",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Gemeinsame Identität",
+        "text": "Ein Team mit eigener Geschichte und eigenem Stolz."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Klarheit im Verbund",
+        "text": "Rollen, Entscheidungswege und Prioritäten im neuen Unternehmen."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Wirkung im Großen",
+        "text": "Loyalty und Payments gemeinsam für mehr Kund*innen."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Integrierte Teams",
+        "text": "Teams beider Seiten lernen voneinander."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht von einer starken eigenen Identität über Klarheit im neuen Verbund und größere Wirkung hin zu Teams, die über Unternehmensgrenzen hinweg voneinander lernen. Identität und Ambition sind da. Der Hebel liegt jetzt in Klarheit - sie entscheidet, ob Menschen bleiben und mitgestalten."
+  },
+  "handlungsfelder": [
+    {
+      "id": "klarheit",
+      "titel": "Klarheit im Übergang",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "BLAU"
+      },
+      "heute": "Mit dem Closing am 1. Juli hat die Integration begonnen, verantwortet von der Spitze von Adyen. Für Teams in Berlin, London, Boston und Singapur bedeutet das viele offene Fragen zu Rollen, Prioritäten und Zukunft - oft schneller, als Antworten verfügbar sind.",
+      "beleg": "Adyen-Pressemitteilung zum Closing, talon.one/about-us",
+      "erster_schritt": "Klärungs-Workshop mit den Führungskräften von Talon.One: Was wissen wir, was nicht, wie kommunizieren wir ehrlich in unsicheren Phasen?",
+      "ergebnis_6m": "Führungskräfte kommunizieren konsistent und ehrlich. Unsicherheit wird besprechbar, Schlüsselpersonen bleiben an Bord."
+    },
+    {
+      "id": "produkt",
+      "titel": "Zwei Kulturen, ein Produktversprechen",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Adyen integriert eure Promotion-Engine in die eigene Plattform. Damit treffen zwei Produkt- und Engineering-Kulturen aufeinander, mit unterschiedlichen Prozessen, Rhythmen und Selbstverständnissen.",
+      "beleg": "Adyen-Pressemitteilung zum Closing (Integration der Promotion-Engine)",
+      "erster_schritt": "Schnittstellen-Workshop mit Product- und Engineering-Teams beider Seiten: Wie arbeiten wir, wo unterscheiden wir uns, welche Spielregeln brauchen wir?",
+      "ergebnis_6m": "Gemeinsame Spielregeln für die Zusammenarbeit über Unternehmensgrenzen. Die Integration läuft mit weniger Reibung und weniger Wissensverlust."
+    },
+    {
+      "id": "kultur",
+      "titel": "Eure Kultur in die neue Rolle übersetzen",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "GRUEN"
+      },
+      "heute": "Ownership, Clarity und Teamwork haben Talon.One groß gemacht. Im Verbund stellt sich die Frage neu, was davon ihr mitnehmt, was sich verändert und wie ihr eure Identität in die größere Organisation einbringt.",
+      "beleg": "Werte auf talon.one/about-us",
+      "erster_schritt": "Werte Check-up mit einer Gruppe über alle Standorte: Was bleibt, was kommt dazu, was lassen wir los?",
+      "ergebnis_6m": "Ein klares Bild der eigenen Kultur im neuen Verbund. Teams erleben die Integration als Weiterentwicklung statt als Verlust."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Talon.One x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "talon.one - Über uns",
+      "url": "https://www.talon.one/about-us"
+    },
+    {
+      "titel": "Adyen: Closing der Übernahmen von Talon.One und Orb",
+      "url": "https://www.adyen.com/press-and-media/adyen-closes-talonone-and-orb-acquisitions-announces-leadership-updates"
+    }
+  ],
+  "token": "a7000c"
+}

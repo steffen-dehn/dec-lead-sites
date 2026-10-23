@@ -1,0 +1,134 @@
+{
+  "slug": "buena",
+  "firma": "Buena",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#1d1d1f",
+    "accent": "#ac5b21",
+    "bg": "#f6f4f0",
+    "font": "Inter Tight",
+    "font_original": "Buena Suisse Intl",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Hausverwaltung neu denken - mit allen, die schon da sind.",
+    "intro": "Ihr betreut über 80.000 Einheiten, bietet Verwalter*innen Nachfolgelösungen an und verbindet persönliche Verwaltung mit eigener Software. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, ob aus vielen Verwaltungen eine gemeinsame Buena wird."
+  },
+  "muster": {
+    "title": "Werte bei Buena",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Eigentümer*innen",
+        "quelle": "buena.com/mission",
+        "werte": [
+          "Qualität",
+          "Klartext",
+          "Mehrwert schaffen",
+          "Digital und menschlich"
+        ]
+      },
+      {
+        "titel": "Gegenüber Bewerber*innen",
+        "quelle": "buena.com/careers",
+        "werte": [
+          "Denk verrückt groß",
+          "Es ist immer dringend",
+          "Von vorne führen",
+          "Direktes Feedback",
+          "Alles hat einen Verantwortlichen"
+        ]
+      }
+    ],
+    "lesart": "Euren Eigentümer*innen versprecht ihr Qualität, Klartext und eine Verwaltung, die menschlich bleibt. Intern zählt Tempo: groß denken, alles ist dringend, jede Aufgabe hat eine verantwortliche Person. Beides passt zusammen - solange die Menschen, die aus übernommenen Verwaltungen zu euch kommen, beide Seiten erleben. Genau dort liegt die Spannung.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Tempo & Anspruch",
+        "text": "Groß denken, direkt entscheiden, von vorne führen."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Verlässliche Qualität",
+        "text": "Klare Verantwortung und Standards, auf die sich Eigentümer*innen verlassen."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Skalierung & Wirkung",
+        "text": "Software und neue Verwaltungen bringen Reichweite und Effizienz."
+      },
+      {
+        "farbe": "GRUEN",
+        "label": "Menschlich verbunden",
+        "text": "Teams, die sich als eine Buena erleben - egal, woher sie kommen."
+      }
+    ],
+    "fokus": 3,
+    "bewegung": "Eure Bewegung geht vom Tempo eines Gründungsteams über verlässliche Qualität und Skalierung hin zu einer Organisation, in der sich alle als Teil einer Buena erleben. Tempo und Skalierung sind spürbar. Der nächste Hebel liegt darin, dass Menschen aus übernommenen Verwaltungen und aus dem Tech-Team dieselbe Kultur teilen."
+  },
+  "handlungsfelder": [
+    {
+      "id": "ankommen",
+      "titel": "Übernommene Teams gut ankommen lassen",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "BLAU"
+      },
+      "heute": "Mit euren Nachfolgelösungen kommen Verwalter*innen samt Teams, Gewohnheiten und Mandaten zu Buena. Sie bringen Erfahrung und Beziehungen zu Eigentümer*innen mit - und treffen auf eine Kultur, in der alles dringend ist und groß gedacht wird. Ob sie ankommen, entscheidet sich in den ersten Monaten.",
+      "beleg": "Bereich Nachfolge und Partnerschaft für Verwalter*innen auf buena.com, Werte auf buena.com/careers",
+      "erster_schritt": "Integrations-Werkstatt mit Teams aus zuletzt übernommenen Verwaltungen: Was hat beim Ankommen geholfen, was hat gefehlt, was brauchen die nächsten?",
+      "ergebnis_6m": "Ein erprobter Ankommens-Pfad für jede neue Verwaltung. Übernommene Teams arbeiten schneller nach euren Standards, ohne ihre Beziehungen zu Eigentümer*innen zu verlieren."
+    },
+    {
+      "id": "software",
+      "titel": "Software und Verwaltung als ein Team",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Ihr verbindet persönliche Hausverwaltung mit eigener Software. Im Manifest heißt es, Software allein löse nichts, wenn Verwalter*innen nicht mitdenken. Damit das gelingt, müssen Produktentwicklung und Verwaltungsalltag eng verzahnt sein - zwei Welten mit sehr unterschiedlichem Takt.",
+      "beleg": "Manifest auf buena.com/mission, Startseite buena.com",
+      "erster_schritt": "Schnittstellen-Workshop Verwaltung x Product: Wo hilft die Software heute, wo bremst sie, und wie fließen Erfahrungen aus dem Alltag in die Entwicklung?",
+      "ergebnis_6m": "Verwalter*innen geben strukturiert Rückmeldung an die Produktentwicklung. Neue Funktionen entstehen aus echten Anforderungen und werden im Alltag tatsächlich genutzt."
+    },
+    {
+      "id": "fuehrung",
+      "titel": "Führung, die mit dem Tempo mitwächst",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "Eure Werte sind klar: von vorne führen, direktes Feedback, alles hat eine verantwortliche Person. Mit jeder neuen Verwaltung wächst die Zahl der Führungskräfte, die diese Werte vorleben sollen - viele davon aus einer ganz anderen Führungskultur.",
+      "beleg": "Werte auf buena.com/careers",
+      "erster_schritt": "Führungs-Nugget mit Teamleitungen aus Verwaltung und Zentrale: Was heißt 'von vorne führen' bei Buena konkret - und was nicht?",
+      "ergebnis_6m": "Ein gemeinsames Führungsverständnis über alle Teams. Teamleitungen aus übernommenen Verwaltungen und aus der Zentrale führen nach denselben Spielregeln."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Buena x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "buena.com - Startseite",
+      "url": "https://www.buena.com/de"
+    },
+    {
+      "titel": "buena.com - Manifest",
+      "url": "https://www.buena.com/mission"
+    },
+    {
+      "titel": "buena.com - Karriere",
+      "url": "https://www.buena.com/careers"
+    }
+  ],
+  "token": "537dea"
+}

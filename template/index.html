@@ -18,6 +18,8 @@
     --muted: #6E6E6E;
     --line: #E6E1DA;
     --dec: #A8B300;
+    --accent-ink: var(--accent);
+    --on-accent: #ffffff;
     --g-purpur: #8E6BA8; --g-rot: #C8553D; --g-blau: #3D6FA8; --g-orange: #E0913A;
     --g-gruen: #6E9E4F; --g-gelb: #D9B53F; --g-tuerkis: #3FA8A0;
     --radius: 14px;
@@ -37,10 +39,10 @@
   a { color: inherit; }
 
   header.hero { padding: 72px 16px 48px; }
-  .eyebrow { display: inline-flex; align-items: center; gap: 10px; font-size: 1.05rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--brand); margin-bottom: 18px; }
+  .eyebrow { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; max-width: 100%; font-size: 1.05rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--brand); margin-bottom: 18px; }
   .eyebrow::before { content: ""; width: 28px; height: 3px; border-radius: 2px; background: var(--accent); }
   .eyebrow span { color: var(--muted); font-weight: 400; }
-  .kicker { font-size: .85rem; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
+  .kicker { font-size: .85rem; letter-spacing: .08em; text-transform: uppercase; color: var(--accent-ink); font-weight: 600; }
   h1 { font-size: clamp(2rem, 5vw, 3.4rem); line-height: 1.1; margin: 12px 0 20px; color: var(--brand); max-width: 18ch; }
   .lead { font-size: 1.15rem; max-width: 62ch; color: var(--text); }
 
@@ -66,10 +68,10 @@
   .steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; position: relative; }
   .mstep { position: relative; padding: 14px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); }
   .mstep + .mstep::before { content: "→"; position: absolute; left: -9px; top: 14px; font-size: .8rem; color: var(--muted); background: var(--surface); line-height: 1; }
-  .mstep.fokus { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+  .mstep.fokus { border-color: var(--accent-ink); box-shadow: 0 0 0 1px var(--accent); }
   .mstep .mhead { display: flex; align-items: center; gap: 8px; font-weight: 600; font-size: .92rem; line-height: 1.3; }
   .mstep p { margin: 8px 0 0; font-size: .85rem; color: var(--muted); line-height: 1.5; }
-  .mstep .tag { display: inline-block; margin-top: 8px; font-size: .72rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); }
+  .mstep .tag { display: inline-block; margin-top: 8px; font-size: .72rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--accent-ink); }
   .movetext { margin: 16px 0 0; max-width: 72ch; }
 
   /* Wer wir sind */
@@ -83,8 +85,8 @@
   .fbtn { all: unset; cursor: pointer; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; display: flex; flex-direction: column; gap: 8px; transition: transform .15s, border-color .15s, box-shadow .15s; }
   .fbtn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,.06); }
   .fbtn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-  .fbtn[aria-selected="true"] { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
-  .fnum { font-size: .8rem; color: var(--accent); font-weight: 600; }
+  .fbtn[aria-selected="true"] { border-color: var(--accent-ink); box-shadow: 0 0 0 1px var(--accent); }
+  .fnum { font-size: .8rem; color: var(--accent-ink); font-weight: 600; }
   .ftitle { font-weight: 600; line-height: 1.3; }
 
   .detail { margin-top: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
@@ -95,13 +97,13 @@
   .col { padding: 24px; }
   .col + .col { border-left: 1px solid var(--line); }
   .label { font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; font-weight: 600; color: var(--muted); margin-bottom: 10px; }
-  .col.future .label { color: var(--accent); }
+  .col.future .label { color: var(--accent-ink); }
   .step { margin-top: 18px; }
   .step .label { margin-bottom: 6px; }
   .evidence { font-size: .8rem; color: var(--muted); margin-top: 14px; }
   .nav { display: flex; justify-content: space-between; padding: 0 24px 22px; }
   .nav button { all: unset; cursor: pointer; font-size: .9rem; color: var(--muted); }
-  .nav button:hover { color: var(--accent); }
+  .nav button:hover { color: var(--accent-ink); }
   .detail-inner { animation: fade .25s ease; }
   @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
 
@@ -109,7 +111,7 @@
   .cta { background: var(--brand); color: var(--bg); border-radius: var(--radius); padding: 40px 32px; display: grid; grid-template-columns: 1.4fr 1fr; gap: 24px; align-items: center; }
   .cta h2 { color: inherit; }
   .cta p { margin: 0; opacity: .85; }
-  .cta a.btn { justify-self: end; background: var(--accent); color: #fff; text-decoration: none; padding: 14px 24px; border-radius: 999px; font-weight: 600; }
+  .cta a.btn { justify-self: end; background: var(--accent); color: var(--on-accent); text-decoration: none; padding: 14px 24px; border-radius: 999px; font-weight: 600; }
 
   footer { padding: 40px 16px 56px; font-size: .82rem; color: var(--muted); }
   footer .row { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; align-items: flex-end; }
@@ -117,7 +119,7 @@
   .declogo { display: block; width: 190px; height: auto; }
   .logolink { display: inline-block; margin: 14px 0 10px; }
   .weblink { display: inline-block; margin-top: 4px; font-size: .85rem; color: var(--muted); text-decoration: none; }
-  .weblink:hover { color: var(--accent); }
+  .weblink:hover { color: var(--accent-ink); }
 
   @media (max-width: 820px) {
     .fields { grid-template-columns: 1fr 1fr; }
@@ -218,6 +220,9 @@
     const dark = matchMedia('(prefers-color-scheme: dark)').matches && document.documentElement.dataset.theme !== 'light';
     if (!dark && L.ci.brand) r.setProperty('--brand', L.ci.brand);
     if (L.ci.accent) r.setProperty('--accent', L.ci.accent);
+    if (L.ci.accent_ink && !dark) r.setProperty('--accent-ink', L.ci.accent_ink);
+    else if (L.ci.accent) r.setProperty('--accent-ink', L.ci.accent);
+    if (L.ci.on_accent) r.setProperty('--on-accent', L.ci.on_accent);
     if (!dark && L.ci.bg) r.setProperty('--bg', L.ci.bg);
     if (L.ci.font) {
       const fontLink = document.createElement('link');

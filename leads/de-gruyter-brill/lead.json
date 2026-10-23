@@ -1,0 +1,129 @@
+{
+  "slug": "de-gruyter-brill",
+  "firma": "De Gruyter Brill",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#002850",
+    "accent": "#007596",
+    "bg": "#ffffff",
+    "font": "Inter",
+    "font_original": "Haffer / Reckless Neue",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Zwei Traditionshäuser, ein gemeinsamer Weg in die digitale Zukunft.",
+    "intro": "Seit März 2024 seid ihr De Gruyter Brill: rund 750 Menschen, zwei Häuser mit Wurzeln im 17. und 18. Jahrhundert, Hauptsitz in Berlin und ein großer Standort in Leiden. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie aus dem Zusammenschluss eine gemeinsame Kultur wird."
+  },
+  "muster": {
+    "title": "Werte bei De Gruyter Brill",
+    "sub": "Was ihr nach außen zeigt - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber der Wissenschaft",
+        "quelle": "degruyterbrill.com",
+        "werte": [
+          "Trusted partner",
+          "Rigorous scholarly research",
+          "Open Access",
+          "Unabhängig und familiengeführt"
+        ]
+      },
+      {
+        "titel": "Warum ihr zusammengegangen seid",
+        "quelle": "niso.org, Oktober 2023",
+        "werte": [
+          "Digitaler Wandel",
+          "Investitionen in Technologie",
+          "Talente gewinnen",
+          "Gemeinsame Stärke"
+        ]
+      }
+    ],
+    "lesart": "Ihr steht für Verlässlichkeit, wissenschaftliche Sorgfalt und Unabhängigkeit - Werte mit jahrhundertelanger Tradition. Gleichzeitig war der Zusammenschluss eine Antwort auf den digitalen Wandel und Open Access. Tradition und Transformation gehören zusammen. Die Frage ist, wie zwei Häuser mit eigener Geschichte diesen Weg gemeinsam gehen.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Verlagstradition",
+        "text": "Zwei Häuser mit Geschichte und Stolz."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Gemeinsame Strukturen",
+        "text": "Ein Verlag, abgestimmte Prozesse, klare Verantwortung."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Digitale Transformation",
+        "text": "Open Access, Plattformen, Technologie."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Ein lernender Verlag",
+        "text": "Teams aus Berlin, Leiden und weltweit lernen voneinander."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht von zwei traditionsreichen Häusern über gemeinsame Strukturen und digitale Transformation hin zu einem Verlag, der über Standorte hinweg lernt. Tradition und digitale Ambition sind da. Der Hebel liegt in den gemeinsamen Strukturen: Sie entscheiden, ob aus zwei Häusern wirklich ein Verlag wird."
+  },
+  "handlungsfelder": [
+    {
+      "id": "ein-verlag",
+      "titel": "Aus zwei Häusern ein Verlag",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "BLAU"
+      },
+      "heute": "Marken, Imprints und Programme beider Häuser bleiben erhalten - das schützt Identität. Gleichzeitig sollen Prozesse, Systeme und Zusammenarbeit zusammenwachsen. In solchen Phasen arbeiten Teams oft lange in alten Mustern nebeneinander statt miteinander.",
+      "beleg": "degruyterbrill.com, Meldung zum Zusammenschluss",
+      "erster_schritt": "Integrations-Werkstatt mit Teams aus Berlin und Leiden: Wo arbeiten wir schon gut zusammen, wo noch in zwei Welten?",
+      "ergebnis_6m": "Klare Schnittstellen und gemeinsame Arbeitsweisen in den wichtigsten Prozessen. Mitarbeitende erleben De Gruyter Brill als einen Verlag."
+    },
+    {
+      "id": "open-access",
+      "titel": "Open Access als Kulturwandel",
+      "graves": {
+        "von": "BLAU",
+        "zu": "ORANGE"
+      },
+      "heute": "Ein zentraler Grund für den Zusammenschluss war, in digitalen Wandel und Open Access investieren zu können. Neue Geschäftsmodelle verändern Rollen in Programm, Vertrieb und Produktion - und berühren das Selbstverständnis traditionsreicher Verlagsarbeit.",
+      "beleg": "Begründung laut niso.org und degruyterbrill.com",
+      "erster_schritt": "Zielbild-Workshop mit Programm-, Produkt- und Vertriebsverantwortlichen: Wie sieht unsere Verlagsarbeit 2030 aus?",
+      "ergebnis_6m": "Ein gemeinsames Zielbild der Verlagsarbeit, das Teams Orientierung gibt. Veränderungen werden als gemeinsame Entwicklung erlebt."
+    },
+    {
+      "id": "fuehrung",
+      "titel": "Führung über Standorte und Herkünfte",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Führungskräfte bei euch führen Teams, die aus zwei Unternehmen, mehreren Ländern und unterschiedlichen Traditionen kommen. Mit neuen Rollen im gemeinsamen Vorstand haben sich auch die Erwartungen an Führung verändert.",
+      "beleg": "Führungsstruktur laut niso.org",
+      "erster_schritt": "Führungs-Nugget mit Führungskräften aus Berlin und Leiden: Was heißt gute Führung bei De Gruyter Brill?",
+      "ergebnis_6m": "Ein gemeinsames Führungsverständnis über Standorte hinweg. Teams erleben verlässliche, vergleichbare Führung."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "De Gruyter Brill x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "degruyterbrill.com: De Gruyter Brill",
+      "url": "https://degruyterbrill.com/en/?p=298"
+    },
+    {
+      "titel": "NISO: Brill merges with De Gruyter",
+      "url": "https://www.niso.org/niso-io/2023/10/brill-merges-de-gruyter-creating-worlds-largest-humanities-publisher"
+    }
+  ],
+  "token": "2972f0"
+}

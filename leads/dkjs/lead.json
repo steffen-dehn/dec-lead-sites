@@ -1,0 +1,126 @@
+{
+  "slug": "dkjs",
+  "firma": "Deutsche Kinder- und Jugendstiftung",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#1b1b1b",
+    "accent": "#A8B300",
+    "accent_ink": "#5f6600",
+    "on_accent": "#1b1b1b",
+    "bg": "#ffffff",
+    "font": "Poppins",
+    "verified": false
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Räume für Mut - auch nach innen.",
+    "intro": "Ihr schafft Räume für Mut, Handeln und Austausch, macht eure Wirkung in einem eigenen Wirkjournal sichtbar und beratet Kommunen dabei, wie Verwaltung sich verändern kann. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie ihr diese Haltung auch nach innen lebt."
+  },
+  "muster": {
+    "title": "Werte der DKJS",
+    "sub": "Was ihr nach außen zeigt - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kindern, Jugendlichen und Partner*innen",
+        "quelle": "dkjs.de",
+        "werte": [
+          "Bildung",
+          "Beteiligung",
+          "Räume für Mut",
+          "Austausch"
+        ]
+      },
+      {
+        "titel": "Als Organisation",
+        "quelle": "dkjs.de",
+        "werte": [
+          "Wirkjournal",
+          "Kommunen begleiten",
+          "Verwaltung verändern",
+          "Viele Programme"
+        ]
+      }
+    ],
+    "lesart": "Nach außen steht ihr für Beteiligung und Mut - ihr begleitet Schulen und Kommunen in Veränderungsprozessen. Nach innen laufen viele Programme parallel, mit eigener Förderlogik, eigenen Teams und eigenen Laufzeiten. Organisationen, die andere beim Verändern begleiten, stehen oft vor der Frage, wie sie dieselbe Haltung in der eigenen Zusammenarbeit leben.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Gemeinsame Vision",
+        "text": "Jedem Kind ein Hier, ein Jetzt und eine Zukunft."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Verlässliche Programme",
+        "text": "Professionelle Steuerung von Projekten und Fördermitteln."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Wirkung zeigen",
+        "text": "Ergebnisse messen und sichtbar machen."
+      },
+      {
+        "farbe": "GRUEN",
+        "label": "Beteiligung nach innen",
+        "text": "Mitarbeitende gestalten die Organisation mit."
+      }
+    ],
+    "fokus": 3,
+    "bewegung": "Eure Bewegung geht von einer starken gemeinsamen Vision über verlässliche Programme und sichtbare Wirkung hin zu einer Organisation, die Beteiligung auch nach innen lebt. Vision und Wirkung sind sichtbar. Der Hebel liegt darin, die Beteiligung, die ihr nach außen ermöglicht, auch in der eigenen Zusammenarbeit zu stärken."
+  },
+  "handlungsfelder": [
+    {
+      "id": "programme",
+      "titel": "Programmübergreifend zusammenarbeiten",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Von Technovation Girls bis zum mehrsprachigen Redewettbewerb: Ihr verantwortet viele Programme mit eigenen Förderlogiken und Teams. Wissen und Erfahrungen bleiben dabei leicht in den Programmen stecken, statt der ganzen Stiftung zugutezukommen.",
+      "beleg": "Programme auf dkjs.de",
+      "erster_schritt": "Lern-Werkstatt mit Verantwortlichen aus mehreren Programmen: Welche Erfahrungen lassen sich übertragen, wo erfinden wir das Rad neu?",
+      "ergebnis_6m": "Ein Format für programmübergreifendes Lernen, das regelmäßig stattfindet. Neue Programme starten schneller, weil sie auf geteiltem Wissen aufbauen."
+    },
+    {
+      "id": "wirkung",
+      "titel": "Wirkung auch intern nutzen",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GRUEN"
+      },
+      "heute": "Mit dem Wirkjournal macht ihr eure Wirkung in Zahlen und Geschichten sichtbar. Diese Daten sind auch für die eigene Steuerung wertvoll: Welche Ansätze wirken am stärksten, wo investieren wir als Organisation?",
+      "beleg": "Wirkjournal auf dkjs.de",
+      "erster_schritt": "Strategie-Werkstatt mit Leitung und Programmverantwortlichen: Was sagen uns unsere Wirkungsdaten über Prioritäten?",
+      "ergebnis_6m": "Wirkungsdaten fließen in strategische Entscheidungen ein. Prioritäten sind nachvollziehbar und werden von den Teams getragen."
+    },
+    {
+      "id": "haltung",
+      "titel": "Beraten und selbst verändern",
+      "graves": {
+        "von": "GRUEN",
+        "zu": "GELB"
+      },
+      "heute": "Ihr beratet Kommunen dabei, wie Verwaltung sich verändern kann. Dieses Wissen über Veränderung ist auch eine Ressource für die eigene Organisationsentwicklung - wenn es gezielt nach innen gewendet wird.",
+      "beleg": "Beitrag 'Verwaltung verändern' auf dkjs.de",
+      "erster_schritt": "Zielbild-Workshop mit einer gemischten Gruppe: Wie wollen wir als Stiftung in drei Jahren zusammenarbeiten - und was lernen wir dafür aus unserer eigenen Beratungsarbeit?",
+      "ergebnis_6m": "Ein gemeinsames Zielbild der Zusammenarbeit mit konkreten Schritten. Mitarbeitende erleben intern die Beteiligung, die sie nach außen ermöglichen."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Deutsche Kinder- und Jugendstiftung x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "dkjs.de - Startseite",
+      "url": "https://www.dkjs.de"
+    }
+  ],
+  "token": "47f4a9"
+}

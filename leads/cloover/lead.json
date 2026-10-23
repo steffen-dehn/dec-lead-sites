@@ -1,0 +1,128 @@
+{
+  "slug": "cloover",
+  "firma": "Cloover",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#0e0e2c",
+    "accent": "#002eff",
+    "bg": "#ffffff",
+    "font": "DM Sans",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Ein Partner für alles - und viele Teams dahinter.",
+    "intro": "Ihr vernetzt über 500 Partner, habt mit Cloover Energy ein neues Geschäftsfeld gestartet und seid in Berlin, Genf, Stockholm und Wien vertreten. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie eure Organisation mit der Plattform mitwächst."
+  },
+  "muster": {
+    "title": "Werte bei Cloover",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Partner*innen und Haushalten",
+        "quelle": "cloover.com/de",
+        "werte": [
+          "Vernetzen",
+          "Digitalisieren",
+          "Dekarbonisieren",
+          "Ein Partner, alle Möglichkeiten"
+        ]
+      },
+      {
+        "titel": "Über euch selbst",
+        "quelle": "cloover.com/uberuns",
+        "werte": [
+          "Partnerschaftlichkeit",
+          "Klimaneutralität",
+          "Zugänglichkeit",
+          "Energie-Unabhängigkeit"
+        ]
+      }
+    ],
+    "lesart": "Nach außen seid ihr der eine Partner für alles - Planung, Finanzierung, Beschaffung und Energie. Nach innen heißt das: Teams aus Finanzierung, Software und Energiewirtschaft müssen wie ein System zusammenspielen, verteilt auf vier Länder. Je breiter das Angebot, desto wichtiger wird, was euch intern verbindet.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Unternehmergeist",
+        "text": "Schnell bauen, Chancen nutzen, neue Märkte öffnen."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Tragfähige Struktur",
+        "text": "Klare Rollen und Abläufe zwischen Produkten, Teams und Ländern."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Plattform & Wachstum",
+        "text": "Mehr Partner, mehr Produkte, mehr Wirkung pro Haushalt."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Vernetztes Ökosystem",
+        "text": "Teams und Partner steuern sich über gemeinsame Ziele und Schnittstellen."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht vom schnellen Aufbau neuer Produkte hin zu einem Ökosystem, das sich über gemeinsame Ziele steuert. Unternehmergeist und Plattformwachstum sind sichtbar. Was dazwischen trägt, ist eine Struktur, die mit jedem neuen Produkt und Land mitwächst - dort liegt aktuell der größte Hebel."
+  },
+  "handlungsfelder": [
+    {
+      "id": "plattform",
+      "titel": "Ein Produkt, viele Teams",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "CRM, Finanzierung, Beschaffung und Energiemanagement wachsen zu einer Plattform zusammen, mit Cloover Energy kommt ein weiteres Geschäftsfeld dazu. Hinter jedem Modul stehen Teams mit eigener Logik - Kreditgeschäft, Software, Energiewirtschaft. Damit Partner*innen 'einen Partner' erleben, müssen diese Teams intern wie einer arbeiten.",
+      "beleg": "Module und Cloover Energy auf cloover.com/de",
+      "erster_schritt": "Schnittstellen-Workshop mit den Produktteams: Wo entstehen Übergaben, Doppelarbeit und Wartezeiten zwischen den Modulen?",
+      "ergebnis_6m": "Klare Verantwortlichkeiten entlang der Kundenreise. Teams planen gemeinsam, Partner*innen erleben ein Produkt statt mehrerer."
+    },
+    {
+      "id": "standorte",
+      "titel": "Kultur über vier Standorte",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "GRUEN"
+      },
+      "heute": "Mit Berlin, Genf, Stockholm und jetzt Wien arbeitet ihr in vier Ländern. Was in einem Gründungsteam selbstverständlich ist, muss über Standorte und Sprachen hinweg bewusst gestaltet werden: Wie entscheiden wir, wie geben wir Feedback, was heißt Partnerschaftlichkeit nach innen?",
+      "beleg": "Standorte auf cloover.com/uberuns, neues Büro Wien laut cloover.com/de",
+      "erster_schritt": "Werte Check-up mit einer standortübergreifenden Gruppe: individuell, heute, zukünftig - was verbindet, wo gehen die Standorte auseinander?",
+      "ergebnis_6m": "3-4 gemeinsame Werte mit Verhaltensankern, die an allen Standorten gleich verstanden werden und in Onboarding und Zusammenarbeit sichtbar sind."
+    },
+    {
+      "id": "entscheiden",
+      "titel": "Führung jenseits des Gründungsteams",
+      "graves": {
+        "von": "ROT",
+        "zu": "BLAU"
+      },
+      "heute": "Ein vierköpfiges Gründungs- und Führungsteam prägt Cloover sichtbar. Mit wachsenden Teams und neuen Geschäftsfeldern steigt die Zahl der Entscheidungen, die nicht mehr im Gründungskreis fallen können. Transparente Entscheidungswege werden damit zur Voraussetzung für Tempo.",
+      "beleg": "Führungsteam auf cloover.com/uberuns",
+      "erster_schritt": "Leadership-Klausur: Entscheidungsarchitektur klären - was entscheidet wer, was wird delegiert, wie machen wir es transparent?",
+      "ergebnis_6m": "Klare Entscheidungsrechte entlasten das Gründungsteam. Teamleads entscheiden in ihrem Raum selbst, und alle wissen, wo welche Entscheidung fällt."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Cloover x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "cloover.com - Startseite",
+      "url": "https://www.cloover.com/de"
+    },
+    {
+      "titel": "cloover.com - Über uns",
+      "url": "https://www.cloover.com/uberuns"
+    }
+  ],
+  "token": "c2ffee"
+}

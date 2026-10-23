@@ -1,0 +1,129 @@
+{
+  "slug": "save-the-children",
+  "firma": "Save the Children Deutschland",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#333333",
+    "accent": "#da291c",
+    "bg": "#f8f7f5",
+    "font": "Lato",
+    "font_original": "Oswald / Lato / TradeGothic",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Für Kinderrechte - mit einer Organisation, die mitwächst.",
+    "intro": "Über 200 Menschen arbeiten bei euch in Berlin, als Teil einer Bewegung mit 30 Mitgliedsorganisationen in über 100 Ländern. Mit einem eigenen Bereich für Organisationsentwicklung, Personal und Verwaltung gestaltet ihr eure Organisation bewusst. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie ihr eure Wirkung auch nach innen stärkt."
+  },
+  "muster": {
+    "title": "Werte bei Save the Children",
+    "sub": "Was ihr nach außen zeigt - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Als Organisation",
+        "quelle": "jobs.savethechildren.de",
+        "werte": [
+          "Kinderrechte",
+          "Schutz von Kindern und Erwachsenen",
+          "Teil einer globalen Bewegung",
+          "Neun Bereiche"
+        ]
+      },
+      {
+        "titel": "Gegenüber Bewerber*innen",
+        "quelle": "jobs.savethechildren.de",
+        "werte": [
+          "Wertschätzendes Arbeitsumfeld",
+          "Mitgestaltung",
+          "Faire Bedingungen",
+          "Diversity, Equity & Inclusion"
+        ]
+      }
+    ],
+    "lesart": "Nach außen setzt ihr euch für Kinderrechte und Schutz ein, weltweit und in Deutschland. Nach innen arbeiten neun Bereiche von Advocacy über Fundraising bis zu internationalen Programmen zusammen, eingebunden in eine internationale Bewegung. Missionsgetriebene Organisationen leben von hoher Identifikation - und brauchen gerade deshalb Strukturen, die Engagement schützen.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Gemeinsame Mission",
+        "text": "Kinderrechte als verbindendes Anliegen."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Professionelle Strukturen",
+        "text": "Klare Prozesse, Schutzstandards und Verantwortung."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Wirkung & Wachstum",
+        "text": "Spenden, Programme und politische Wirkung ausbauen."
+      },
+      {
+        "farbe": "GRUEN",
+        "label": "Mitgestaltung",
+        "text": "Ein wertschätzendes Umfeld, in dem alle mitgestalten."
+      }
+    ],
+    "fokus": 3,
+    "bewegung": "Eure Bewegung geht von einer starken gemeinsamen Mission über professionelle Strukturen und wachsende Wirkung hin zu einer Organisation, in der Mitarbeitende aktiv mitgestalten. Mission und Professionalität sind spürbar. Der Hebel liegt darin, Mitgestaltung über Bereichsgrenzen hinweg zu stärken."
+  },
+  "handlungsfelder": [
+    {
+      "id": "bereiche",
+      "titel": "Bereiche, die gemeinsam wirken",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Advocacy, Programme, Fundraising, Kommunikation, Corporate Partnerships: Neun Bereiche verfolgen dieselbe Mission mit unterschiedlichen Logiken. Wo Spendengewinnung, politische Arbeit und Programmarbeit eng zusammenspielen, steigt die Wirkung - wo nicht, entstehen Reibungen.",
+      "beleg": "Bereiche auf jobs.savethechildren.de",
+      "erster_schritt": "Schnittstellen-Workshop mit Bereichsleitungen: Wo verstärken wir uns, wo arbeiten wir nebeneinander her?",
+      "ergebnis_6m": "Klare Schnittstellen und gemeinsame Planungsroutinen. Kampagnen, Programme und Fundraising greifen sichtbarer ineinander."
+    },
+    {
+      "id": "engagement",
+      "titel": "Engagement schützen",
+      "graves": {
+        "von": "PURPUR",
+        "zu": "GRUEN"
+      },
+      "heute": "Menschen kommen zu Save the Children, weil ihnen Kinderrechte am Herzen liegen. Hohe Identifikation ist eine Stärke und zugleich ein Risiko: Arbeit wird schnell zu viel, Prioritäten verschwimmen. Euer Versprechen eines wertschätzenden Arbeitsumfelds wird genau dort konkret.",
+      "beleg": "Arbeitgeberversprechen auf jobs.savethechildren.de",
+      "erster_schritt": "Werkstatt 'Ungeplante Arbeit sichtbar machen' mit zwei Bereichen: Wo entsteht Last, was ist wirklich Priorität?",
+      "ergebnis_6m": "Transparenz über Auslastung und klare Prioritäten. Engagement bleibt langfristig erhalten, weil Überlastung früher sichtbar wird."
+    },
+    {
+      "id": "oe",
+      "titel": "Organisationsentwicklung als Querschnitt",
+      "graves": {
+        "von": "GRUEN",
+        "zu": "GELB"
+      },
+      "heute": "Mit einem eigenen Bereich für Organisationsentwicklung, Personal und Verwaltung habt ihr OE strukturell verankert. Die Wirkung solcher Bereiche hängt davon ab, wie stark die Fachbereiche sie als Partner erleben und nutzen.",
+      "beleg": "Bereich 'Organisationsentwicklung, Personal & Verwaltung' auf jobs.savethechildren.de",
+      "erster_schritt": "Auftragsklärung mit OE-Bereich und Bereichsleitungen: Welche Veränderungen stehen an, wo brauchen die Bereiche Unterstützung?",
+      "ergebnis_6m": "Eine gemeinsame OE-Agenda mit priorisierten Vorhaben, die von den Fachbereichen getragen wird."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Save the Children Deutschland x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "jobs.savethechildren.de",
+      "url": "https://jobs.savethechildren.de"
+    },
+    {
+      "titel": "savethechildren.de",
+      "url": "https://www.savethechildren.de"
+    }
+  ],
+  "token": "ba6115"
+}

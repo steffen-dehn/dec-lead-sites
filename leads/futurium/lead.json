@@ -1,0 +1,131 @@
+{
+  "slug": "futurium",
+  "firma": "Futurium",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#262626",
+    "accent": "#44b49f",
+    "accent_ink": "#317559",
+    "on_accent": "#000000",
+    "bg": "#ffffff",
+    "font": "Inter",
+    "font_original": "Futurium Type / NB International Pro",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Ein Haus der Zukünfte, das sich selbst erneuert.",
+    "intro": "Ihr fragt jeden Tag öffentlich 'Wie wollen wir leben?' - und baut gerade eine Stabsstelle für Digitale Transformation und Organisationsentwicklung auf, während auch die Leitung der Verwaltung neu besetzt wird. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie diese Erneuerung nach innen gelingt."
+  },
+  "muster": {
+    "title": "Werte im Futurium",
+    "sub": "Was ihr nach außen zeigt - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Besucher*innen",
+        "quelle": "futurium.de/de/ueber-uns",
+        "werte": [
+          "Haus der Zukünfte",
+          "Lebendiger Ort für alle",
+          "Offener Austausch",
+          "Wie wollen wir leben?"
+        ]
+      },
+      {
+        "titel": "Als Organisation",
+        "quelle": "futurium.de/de/ueber-uns",
+        "werte": [
+          "Gemeinnützig",
+          "Unabhängig",
+          "Gute Unternehmensführung",
+          "Digitale Transformation"
+        ]
+      }
+    ],
+    "lesart": "Nach außen ist das Futurium ein Ort, an dem Zukünfte erprobt, diskutiert und gemeinsam gedacht werden. Nach innen arbeitet ihr als öffentlich verantwortete gGmbH mit klaren Regeln für Verwaltung, Vergabe und Steuerung. Beides gehört zusammen. Spannend wird es dort, wo die neue Stabsstelle beides verbinden soll: experimentieren wie in der Ausstellung, verlässlich wie in der Verwaltung.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Gemeinsamer Sinn",
+        "text": "Ein Haus mit einer klaren Frage, die alle verbindet."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Verlässliche Verwaltung",
+        "text": "Regeln, Vergabe und Steuerung, die öffentlichen Ansprüchen genügen."
+      },
+      {
+        "farbe": "GRUEN",
+        "label": "Offener Austausch",
+        "text": "Beteiligung und Dialog - nach außen und nach innen."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Lernende Organisation",
+        "text": "Das Haus erprobt intern, was es nach außen zeigt."
+      }
+    ],
+    "fokus": 3,
+    "bewegung": "Eure Bewegung geht von einem gemeinsamen Sinn über verlässliche Strukturen und offenen Austausch hin zu einer Organisation, die selbst so lernt, wie sie es in der Ausstellung zeigt. Die neue Stabsstelle ist genau dieser Schritt: Sie kann aus dem Futurium ein Haus machen, das auch seine eigene Zukunft gestaltet."
+  },
+  "handlungsfelder": [
+    {
+      "id": "stabsstelle",
+      "titel": "Die neue Stabsstelle wirksam machen",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Ihr besetzt die Leitung einer Stabsstelle für Digitale Transformation und Organisationsentwicklung. Eine neue Stabsstelle startet oft mit hohen Erwartungen und wenig gemeinsamem Bild davon, wofür sie da ist. Ob sie wirkt, entscheidet sich daran, wie gut Leitung, Bereiche und Stabsstelle ihren Auftrag gemeinsam klären.",
+      "beleg": "Stellenausschreibung auf futurium.softgarden.io",
+      "erster_schritt": "Auftragsklärung mit Direktion, Bereichsleitungen und neuer Stabsstellenleitung: Welche Probleme soll die Stabsstelle lösen, welchen Spielraum hat sie, woran messen wir Erfolg?",
+      "ergebnis_6m": "Ein geteilter Auftrag und eine klare Roadmap für die Stabsstelle. Die Bereiche erleben sie als Unterstützung, nicht als zusätzliche Ebene."
+    },
+    {
+      "id": "digital",
+      "titel": "Digitalisierung, die im Alltag ankommt",
+      "graves": {
+        "von": "BLAU",
+        "zu": "ORANGE"
+      },
+      "heute": "Digitale Transformation in einem Haus mit Ausstellung, Lab, Forum und Verwaltung heißt: sehr unterschiedliche Arbeitsweisen unter einem Dach. Gleichzeitig wird die Leitung der Verwaltung neu besetzt. Neue Werkzeuge greifen nur, wenn die Teams sie mitgestalten.",
+      "beleg": "Offene Stellen auf futurium.softgarden.io, Angebot laut futurium.de/de/ueber-uns",
+      "erster_schritt": "Praxis-Werkstatt mit Verwaltung und einem Programmbereich: Wo kostet heute am meisten Zeit, was soll digital einfacher werden, welche Bedenken gibt es?",
+      "ergebnis_6m": "Zwei bis drei digitale Vorhaben, die aus dem Alltag der Teams kommen und von ihnen getragen werden. Bedenken haben einen festen Ort, statt im Flur zu bleiben."
+    },
+    {
+      "id": "haltung",
+      "titel": "Intern leben, was ihr ausstellt",
+      "graves": {
+        "von": "GRUEN",
+        "zu": "GELB"
+      },
+      "heute": "Das Futurium lädt Besucher*innen ein, Zukünfte auszuprobieren und offen zu diskutieren. Organisationen, die solche Räume nach außen öffnen, profitieren davon, wenn sie die gleiche Haltung auch intern pflegen - in Besprechungen, Entscheidungen und im Umgang mit neuen Ideen.",
+      "beleg": "Selbstbeschreibung und Leitbild auf futurium.de/de/ueber-uns",
+      "erster_schritt": "Zielbild-Workshop mit einer gemischten Gruppe aus allen Bereichen: Wie wollen wir im Futurium zusammenarbeiten - heute und 2030?",
+      "ergebnis_6m": "Ein gemeinsames Zielbild der Zusammenarbeit, das die Stabsstelle als Kompass nutzt. Mitarbeitende erkennen die Haltung des Hauses in ihrem eigenen Arbeitsalltag wieder."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Futurium x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "futurium.de - Über uns",
+      "url": "https://futurium.de/de/ueber-uns"
+    },
+    {
+      "titel": "Futurium - Stellenangebote",
+      "url": "https://futurium.softgarden.io/de/vacancies"
+    }
+  ],
+  "token": "d25a6c"
+}

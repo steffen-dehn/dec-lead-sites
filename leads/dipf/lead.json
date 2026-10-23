@@ -1,0 +1,128 @@
+{
+  "slug": "dipf",
+  "firma": "DIPF",
+  "stand": "Oktober 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#212529",
+    "accent": "#007bb1",
+    "bg": "#ffffff",
+    "font": "Signika",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand Oktober 2026",
+    "title": "Zwei Schlüsselrollen neu - ein Moment für Weichenstellungen.",
+    "intro": "Ihr besetzt die Geschäftsführende Administrative Direktion und die Personalleitung neu - in einem Institut mit rund 370 Beschäftigten in Frankfurt und Berlin. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie dieser Wechsel zur Chance für das ganze Institut wird."
+  },
+  "muster": {
+    "title": "Werte am DIPF",
+    "sub": "Was ihr nach außen zeigt - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Wissenschaft und Praxis",
+        "quelle": "dipf.de/de/institut",
+        "werte": [
+          "Wissen über Bildung",
+          "Forschung",
+          "Transfer",
+          "Infrastruktur"
+        ]
+      },
+      {
+        "titel": "Als Organisation",
+        "quelle": "dipf.de/de/institut",
+        "werte": [
+          "Stiftung öffentlichen Rechts",
+          "Zwei Standorte",
+          "Fünf Abteilungen",
+          "Wissenschaft und Service"
+        ]
+      }
+    ],
+    "lesart": "Nach außen verbindet ihr Forschung, Transfer und Infrastruktur - drei Logiken mit sehr unterschiedlichen Zeithorizonten. Nach innen arbeiten wissenschaftlich Beschäftigte und Servicebereiche an zwei Standorten zusammen. Wenn Administration und Personal gleichzeitig neu besetzt werden, wird sichtbar, wie gut diese Teile miteinander verbunden sind.",
+    "treppe": [
+      {
+        "farbe": "PURPUR",
+        "label": "Wissenschaftliche Gemeinschaft",
+        "text": "Forschende mit gemeinsamer Leidenschaft für Bildung."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Verlässliche Administration",
+        "text": "Klare Prozesse für Personal, Finanzen und Infrastruktur."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Wirkung & Transfer",
+        "text": "Forschung, die in Politik und Praxis ankommt."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Vernetztes Institut",
+        "text": "Abteilungen, Standorte und Services arbeiten als ein System."
+      }
+    ],
+    "fokus": 1,
+    "bewegung": "Eure Bewegung geht von einer starken wissenschaftlichen Gemeinschaft über verlässliche Administration und wirksamen Transfer hin zu einem Institut, das über Abteilungen und Standorte hinweg als ein System arbeitet. Die Neubesetzungen setzen genau in der Mitte an: Administration und Personal können jetzt neu gedacht werden."
+  },
+  "handlungsfelder": [
+    {
+      "id": "start",
+      "titel": "Neue Leitungen gut starten lassen",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GRUEN"
+      },
+      "heute": "Mit der Geschäftsführenden Administrativen Direktion und der Personalleitung wechseln zwei Rollen, an denen viele Abläufe hängen. Neue Leitungen bringen einen frischen Blick - und brauchen schnell ein gemeinsames Bild mit der wissenschaftlichen Leitung und den Abteilungen.",
+      "beleg": "Stellenausschreibung GAD auf wissenschaftsmanagement-online.de, Stellenangebote auf dipf.de",
+      "erster_schritt": "Auftragsklärung mit Direktorium und neuen Leitungen: Welche Erwartungen gibt es, welche Baustellen haben Priorität, wie arbeiten wir zusammen?",
+      "ergebnis_6m": "Ein geteiltes Verständnis von Rollen und Prioritäten. Die neuen Leitungen sind schneller wirksam, die Abteilungen erleben einen geordneten Übergang."
+    },
+    {
+      "id": "service",
+      "titel": "Wissenschaft und Service als ein Institut",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GELB"
+      },
+      "heute": "Rund die Hälfte eurer Beschäftigten arbeitet wissenschaftlich, die andere Hälfte in Service- und Infrastrukturbereichen - verteilt auf Frankfurt und Berlin. Unterschiedliche Rhythmen und Erwartungen treffen in Projekten, Personalfragen und Ressourcenplanung aufeinander.",
+      "beleg": "dipf.de/de/institut",
+      "erster_schritt": "Schnittstellen-Workshop Wissenschaft x Service: Wo hakt die Zusammenarbeit, was braucht die Forschung, was braucht die Administration?",
+      "ergebnis_6m": "Klare Spielregeln und Ansprechpartner*innen zwischen Abteilungen und Services. Weniger Reibung, schnellere Abläufe in Projekten."
+    },
+    {
+      "id": "personal",
+      "titel": "Personalarbeit strategisch aufstellen",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Mit einer neuen Personalleitung entsteht die Chance, Personalarbeit vom Verwalten zum Gestalten weiterzuentwickeln: Karrierewege in der Wissenschaft, Führungskräfteentwicklung, Bindung von Fachkräften an zwei Standorten.",
+      "beleg": "Stellenangebote auf dipf.de (Personalleitung)",
+      "erster_schritt": "Zielbild-Workshop mit Personalbereich und Abteilungsleitungen: Welche Personalarbeit braucht das DIPF in fünf Jahren?",
+      "ergebnis_6m": "Ein gemeinsames Zielbild für die Personalarbeit mit zwei bis drei priorisierten Vorhaben, die die neue Personalleitung umsetzt."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "DIPF x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "dipf.de - Institut",
+      "url": "https://www.dipf.de/de/institut"
+    },
+    {
+      "titel": "Stellenausschreibung Geschäftsführende Administrative Direktion",
+      "url": "https://www.wissenschaftsmanagement-online.de/system/files/downloads-wimojoboffer/ZenDi%201003-26-03_Stellenausschreibung_GAD_Final.pdf"
+    }
+  ],
+  "token": "e35e6a"
+}
