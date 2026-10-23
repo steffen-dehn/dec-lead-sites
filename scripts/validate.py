@@ -49,6 +49,11 @@ def validate(slug: str, check_urls: bool) -> list[str]:
     hf = d.get("handlungsfelder", [])
     if not 3 <= len(hf) <= 4:
         err.append(f"3-4 Handlungsfelder erwartet, gefunden: {len(hf)}")
+    zahl = {2: "zwei", 3: "drei", 4: "vier", 5: "fünf"}
+    intro = d.get("hero", {}).get("intro", "")
+    m = re.search(r"\b(zwei|drei|vier|fünf)\b\s+(Handlungs)?[Ff]elder", intro)
+    if m and m.group(1) != zahl.get(len(hf)):
+        err.append(f"Intro nennt '{m.group(1)}' Felder, es sind aber {len(hf)}")
     for i, f in enumerate(hf, 1):
         for k in FIELD_KEYS:
             if not f.get(k):

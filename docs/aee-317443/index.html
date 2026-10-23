@@ -175,7 +175,7 @@
   </section>
 
   <section id="felder">
-    <h2>Vier Handlungsfelder</h2>
+    <h2 id="f-title">Handlungsfelder</h2>
     <p class="sub">Klickt euch durch: Wo ihr heute steht - und was in sechs Monaten anders sein kann.</p>
     <div class="fields" role="tablist" id="f-list"></div>
     <div class="detail" id="f-detail" role="tabpanel" aria-live="polite"></div>
@@ -402,6 +402,8 @@
 
   // Handlungsfelder
   const F = L.handlungsfelder;
+  const ZAHL = ['Null', 'Ein', 'Zwei', 'Drei', 'Vier', 'Fünf', 'Sechs'];
+  $('f-title').textContent = `${ZAHL[F.length] || F.length} Handlungsfelder`;
   let cur = 0;
   $('f-list').innerHTML = F.map((f, i) => `
     <button class="fbtn" role="tab" id="tab-${f.id}" aria-controls="f-detail" data-i="${i}">
