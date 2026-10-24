@@ -59,6 +59,12 @@
   .pcard .src { font-size: .8rem; color: var(--muted); margin-bottom: 12px; }
   .chips { display: flex; flex-wrap: wrap; gap: 8px; }
   .chip { border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; font-size: .9rem; }
+  /* These */
+  .these { background: var(--brand); color: var(--bg); border-radius: var(--radius); padding: 36px 32px; }
+  .these .label { color: inherit; opacity: .7; }
+  .these h2 { color: inherit; font-size: clamp(1.35rem, 3.2vw, 1.9rem); line-height: 1.25; margin: 6px 0 16px; max-width: 30ch; }
+  .these p { margin: 0 0 18px; max-width: 70ch; opacity: .9; }
+  .these .frage { display: block; border-top: 1px solid rgba(255,255,255,.18); padding-top: 16px; font-weight: 600; max-width: 70ch; }
   .reading { margin-top: 16px; padding: 20px 22px; border-left: 4px solid var(--accent); background: var(--surface); border-radius: 0 var(--radius) var(--radius) 0; }
   .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; flex: none; }
   .valueblock { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; }
@@ -143,6 +149,15 @@
 </header>
 
 <main class="wrap">
+  <section id="these" hidden>
+    <div class="these">
+      <div class="label">Unsere These</div>
+      <h2 id="t-title"></h2>
+      <p id="t-text"></p>
+      <span class="frage" id="t-frage"></span>
+    </div>
+  </section>
+
   <section id="muster">
     <h2 id="m-title"></h2>
     <p class="sub" id="m-sub"></p>
@@ -397,6 +412,14 @@
   $('title').textContent = L.hero.title;
   $('intro').textContent = L.hero.intro;
   $('note').textContent = L.hinweis;
+
+  // These (optional)
+  if (L.these) {
+    $('these').hidden = false;
+    $('t-title').textContent = L.these.titel;
+    $('t-text').textContent = L.these.text;
+    $('t-frage').textContent = L.these.frage;
+  }
 
   // Muster
   const M = L.muster;

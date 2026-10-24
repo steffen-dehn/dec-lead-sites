@@ -132,5 +132,10 @@
       "url": "https://hallotheo.de/karriere"
     }
   ],
-  "token": "afbf03"
+  "token": "afbf03",
+  "these": {
+    "titel": "An Standorten mit langer Geschichte wird 'Mehr Mensch mit Maschine' zuerst als 'weniger Mensch' gehört.",
+    "text": "Ihr integriert Verwaltungen, die über Jahrzehnte gewachsen sind, und bringt KI in ihren Alltag. Für viele erfahrene Verwalter*innen ist das zunächst eine Frage von Kontrolle und Wertschätzung, nicht von Effizienz. Unsere Vermutung: Wer diese Übersetzung nicht bewusst gestaltet, verliert genau die Erfahrung, die er mit der Integration gewinnen wollte.",
+    "frage": "Wie wird KI an euren gewachsenen Standorten heute erlebt - als Entlastung oder als Kontrolle?"
+  }
 }

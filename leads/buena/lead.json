@@ -130,5 +130,10 @@
       "url": "https://www.buena.com/careers"
     }
   ],
-  "token": "537dea"
+  "token": "537dea",
+  "these": {
+    "titel": "Bei jeder Übernahme kauft ihr Einheiten - aber was ihr haltet, sind Beziehungen.",
+    "text": "Eigentümer*innen bleiben oft wegen ihrer Verwalterin oder ihres Verwalters, nicht wegen der Software. Genau diese Menschen stehen nach einer Übernahme zwischen gewachsenen Mandatsbeziehungen und einer Kultur, in der alles dringend ist. Unsere Vermutung: Der wertvollste Teil jeder Übernahme ist zugleich der fragilste - und wie gut ihr ihn haltet, entscheidet über den Erfolg der nächsten.",
+    "frage": "Wisst ihr, wie viele Verwalter*innen aus übernommenen Häusern nach einem Jahr noch an Bord sind - und warum?"
+  }
 }
