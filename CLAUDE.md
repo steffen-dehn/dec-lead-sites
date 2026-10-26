@@ -34,6 +34,16 @@ Alles, was committet wird, ist für jede*n einsehbar - auch für die Leads selbs
 6. `python3 scripts/screenshot.py <slug>` und Screenshots ansehen.
 7. Freigabe durch Steffen, dann commit + push. Live unter `https://steffen-dehn.github.io/dec-lead-sites/<slug>-<token>/`.
 
+## Brief-Versand (Kaltakquise per Post)
+
+Der vollständige Ablauf steht im Skill `dec-kaltakquise`. Kurz zusammengefasst:
+
+- Kanal: Brief per Post über LetterXpress, keine Kalt-Mails (§ 7 UWG).
+- `scripts/brief.py <slug>` erzeugt den Brief aus `leads/<slug>/lead.json` (Handlungsfelder) und `leads/_input/<slug>.brief.json` (Anschrift, Vorname, Anlass). Ausgabe nach `leads/_input/briefe/`. Briefe und Anschriften werden nie committet.
+- Kurzlink im Brief: `dehn-consulting.com/analyse/<slug>`. Vorher die 301-Weiterleitung auf der Wix-Website (Site-ID `2ed0758e-4645-4fb6-91ff-649a0b44ba16`) auf die Live-URL der Seite anlegen und mit `curl -I` prüfen.
+- `scripts/versand.py test|live <pdf>` versendet über die LetterXpress-API v3. Zugangsdaten nur über die Umgebungsvariablen `LXP_USER`/`LXP_KEY`. Immer zuerst `test`, die erkannte Anschrift prüfen, `live` nur nach Steffens Freigabe.
+- Brieftext-Regeln: sachlicher Ton (kein Mail-Stil), "Hallo <Vorname>", du/ihr, "Dehn Consulting // DEC", Unterschrift nur "Steffen Dehn", konkretes Datum, "unverbindlicher Termin", Grußformel "Beste Grüße".
+
 ## Kontakt-CTA
 
 Standard: `info@dehn-consulting.com`. Mails von Steffen enden mit "Beste Grüße".
