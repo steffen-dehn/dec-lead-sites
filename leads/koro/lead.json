@@ -1,7 +1,7 @@
 {
   "slug": "koro",
   "firma": "KoRo",
-  "stand": "Oktober 2026",
+  "stand": "November 2026",
   "analyse_titel": "Potenzial-Analyse",
   "ci": {
     "brand": "#141414",
@@ -11,9 +11,9 @@
     "verified": true
   },
   "hero": {
-    "kicker": "Stand Oktober 2026",
-    "title": "Von der Online-Marke in alle Kanäle und Länder.",
-    "intro": "Ihr sucht gerade rund 40 neue Kolleg*innen, viele davon in Führungsrollen für Vertrieb, Offline-Handel und internationale Märkte. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie KoRo als Organisation diesen Schritt mitgeht."
+    "kicker": "Stand November 2026",
+    "title": "Eine Marke, die gerade in die Breite wächst.",
+    "intro": "Ihr baut an vielen Stellen gleichzeitig aus: neue Führungsrollen in Marke, Marketing und Key Account Management, ein Field-Sales-Team für den Lebensmittelhandel in ganz Deutschland, Teams für die Niederlande und Italien. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, wie eure Kultur diesen Schritt mitgeht."
   },
   "muster": {
     "title": "Werte bei KoRo",
@@ -31,16 +31,16 @@
       },
       {
         "titel": "Was eure offenen Stellen zeigen",
-        "quelle": "korodrogerie.de/jobs",
+        "quelle": "jobs.ashbyhq.com/koro",
         "werte": [
-          "Internationale Märkte",
-          "Offline & B2B",
           "Neue Führungsrollen",
-          "Supply Chain"
+          "Lebensmittelhandel & Key Accounts",
+          "Niederlande & Italien",
+          "Teams an vielen Orten"
         ]
       }
     ],
-    "lesart": "Kund*innen versprecht ihr Klartext, Qualität und faire Preise - eine direkte Marke, die online groß geworden ist. Eure offenen Stellen zeigen den nächsten Schritt: Handel, B2B und neue Länder. Damit verändert sich, wie KoRo arbeitet - von einem Team, das einen Shop betreibt, zu einer Organisation mit vielen Kanälen und Märkten.",
+    "lesart": "Kund*innen versprecht ihr Klartext, Qualität und faire Preise - eine direkte Marke, die online groß geworden ist. Eure offenen Stellen zeigen den nächsten Schritt: Handel, neue Länder und neue Führung. Damit arbeiten bei KoRo immer mehr Menschen, die die frühe Phase nicht miterlebt haben - in Berlin, im Lager, im Außendienst und remote.",
     "treppe": [
       {
         "farbe": "ROT",
@@ -49,22 +49,22 @@
       },
       {
         "farbe": "BLAU",
-        "label": "Tragfähige Prozesse",
-        "text": "Supply Chain, Qualität und Abläufe, die Wachstum aushalten."
+        "label": "Klare Führung",
+        "text": "Rollen, Verantwortung und Entscheidungswege, die Wachstum aushalten."
       },
       {
         "farbe": "ORANGE",
-        "label": "Neue Kanäle & Märkte",
-        "text": "Handel, B2B und internationale Expansion."
+        "label": "Handel & neue Länder",
+        "text": "Key Accounts, Field Sales und internationale Märkte."
       },
       {
-        "farbe": "GELB",
-        "label": "Vernetzte Organisation",
-        "text": "Länder- und Kanalteams steuern sich über gemeinsame Ziele."
+        "farbe": "GRUEN",
+        "label": "Kultur, die mitwächst",
+        "text": "Werte und Zusammenarbeit, die auch neue Kolleg*innen tragen."
       }
     ],
     "fokus": 1,
-    "bewegung": "Eure Bewegung geht von einer direkten Online-Marke über tragfähige Prozesse und neue Kanäle hin zu einer Organisation, in der Länder- und Kanalteams gemeinsam steuern. Marke und Expansion sind sichtbar. Der Hebel liegt in der Mitte: in Abläufen, die Lieferfähigkeit und Qualität auch dann sichern, wenn Kanäle und Länder dazukommen."
+    "bewegung": "Eure Bewegung geht von einer direkten Online-Marke über klare Führung und neue Märkte hin zu einer Kultur, die auch an neuen Orten trägt. Marke und Expansion sind sichtbar. Der Hebel liegt bei den Menschen: in Führung, die schnell wirksam wird, und in Werten, die nicht nur im Shop, sondern auch in der Zusammenarbeit spürbar sind."
   },
   "handlungsfelder": [
     {
@@ -74,34 +74,34 @@
         "von": "ROT",
         "zu": "BLAU"
       },
-      "heute": "Ihr besetzt gleichzeitig mehrere Führungsrollen, vom Director of Sales über Commercial Director B2B & Offline bis zu Head of International Sales und Performance Marketing. Viele neue Führungskräfte auf einmal bringen Energie - und unterschiedliche Vorstellungen davon, wie bei KoRo entschieden wird.",
-      "beleg": "Offene Stellen auf korodrogerie.de/jobs",
+      "heute": "Ihr besetzt gerade mehrere Führungsrollen gleichzeitig, von VP Brand über Head of Brand & Marketing DACH und Head of Key Account Management DACH & NL bis zur Teamleitung im Field Sales. Viele neue Führungskräfte auf einmal bringen Energie - und unterschiedliche Vorstellungen davon, wie bei KoRo entschieden wird.",
+      "beleg": "Offene Stellen auf jobs.ashbyhq.com/koro",
       "erster_schritt": "Onboarding-Werkstatt für neue Führungskräfte mit dem bestehenden Leitungsteam: Wie entscheiden wir, wie arbeiten wir zusammen, was ist uns wichtig?",
       "ergebnis_6m": "Neue Führungskräfte sind schneller wirksam und ziehen in dieselbe Richtung. Weniger Reibung zwischen bestehenden und neuen Bereichen."
     },
     {
-      "id": "kanaele",
-      "titel": "Online-DNA trifft Handel und B2B",
+      "id": "werte",
+      "titel": "Klartext auch nach innen",
       "graves": {
         "von": "ORANGE",
-        "zu": "GELB"
+        "zu": "GRUEN"
       },
-      "heute": "KoRo ist als Online-Marke groß geworden. Mit Café, Store Locator und eigenen Rollen für Offline-Handel und B2B kommt eine andere Logik dazu: längere Zyklen, Listungen, Key Accounts. Zwei Arbeitsweisen unter einem Dach müssen lernen, sich zu ergänzen.",
-      "beleg": "korodrogerie.de (Café, Store Locator), offene Stellen auf korodrogerie.de/jobs",
-      "erster_schritt": "Schnittstellen-Workshop E-Commerce x Offline & B2B: Wo konkurrieren die Kanäle, wo verstärken sie sich, wer entscheidet was?",
-      "ergebnis_6m": "Klare Spielregeln zwischen den Kanälen. Sortiment, Preise und Kampagnen werden gemeinsam geplant statt gegeneinander optimiert."
+      "heute": "Gegenüber Kund*innen steht ihr für Klartext und Transparenz. Mit neuen Teams im Lager, im Außendienst, in den Niederlanden und in Italien arbeiten immer mehr Menschen bei KoRo, die diese Haltung nicht aus der frühen Phase kennen. Ob Werte tragen, zeigt sich dann im Alltag: in Feedback, Entscheidungen und Konflikten.",
+      "beleg": "korodrogerie.de, Standorte und Teams der offenen Stellen auf jobs.ashbyhq.com/koro",
+      "erster_schritt": "Werte Check-up mit Mitarbeiter*innen aus verschiedenen Bereichen: Was trägt uns heute, was brauchen wir morgen, wo kippen unsere Stärken unter Druck?",
+      "ergebnis_6m": "Ihr wisst, welche Werte im Wachstum Kraft geben und wo sie unter Stress kippen. Führungskräfte und Teams haben eine gemeinsame Sprache dafür, wie bei KoRo zusammengearbeitet wird."
     },
     {
-      "id": "liefern",
-      "titel": "Lieferfähigkeit als Teamaufgabe",
+      "id": "lernen",
+      "titel": "Lernen, das im Alltag ankommt",
       "graves": {
         "von": "BLAU",
         "zu": "ORANGE"
       },
-      "heute": "Nach einem Lagerumzug und einem Bestellansturm kam es laut eurem Blog zu Lieferverzögerungen. Solche Phasen zeigen, wie eng Supply Chain, Kundenservice und Marketing verbunden sind - und wie wichtig es ist, dass sie gemeinsam steuern.",
-      "beleg": "Blog auf korodrogerie.de (Lagerumzug), Stelle Senior Supply Chain Manager auf korodrogerie.de/jobs",
-      "erster_schritt": "Retrospektive mit Supply Chain, Service und Marketing: Was haben wir aus dem Lagerumzug gelernt, was machen wir beim nächsten Wachstumsschub anders?",
-      "ergebnis_6m": "Ein gemeinsames Frühwarnsystem zwischen Marketing, Supply Chain und Service. Kampagnen und Lieferfähigkeit werden zusammen geplant."
+      "heute": "Viele eurer offenen Stellen sind Einstiegs- und Associate-Rollen, dazu kommen Kolleg*innen, die remote oder im Außendienst arbeiten. Wer neu ist und nicht täglich im Büro sitzt, lernt KoRo vor allem über die eigene Führungskraft kennen. Klassische Trainings verpuffen dabei schnell.",
+      "beleg": "Offene Stellen auf jobs.ashbyhq.com/koro (Junior-, Associate- und Remote-Rollen)",
+      "erster_schritt": "Learning Journey für neue Teamleitungen: Welche zwei, drei Fähigkeiten brauchen unsere Führungskräfte jetzt - und wie üben wir sie direkt an echten Fällen?",
+      "ergebnis_6m": "Neue Kolleg*innen finden sich schneller zurecht, weil ihre Führungskräfte sie gezielter begleiten. Gelerntes wird im Arbeitsalltag angewendet statt nach dem Workshop vergessen."
     }
   ],
   "cta": {
@@ -112,16 +112,16 @@
     "mailto": "info@dehn-consulting.com",
     "betreff": "KoRo x DEC"
   },
-  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Presse, Stellenanzeigen).",
-  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand Oktober 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, Stellenanzeigen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand November 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
   "quellen": [
     {
       "titel": "korodrogerie.de - Startseite",
       "url": "https://www.korodrogerie.de"
     },
     {
-      "titel": "korodrogerie.de - Jobs",
-      "url": "https://www.korodrogerie.de/jobs"
+      "titel": "KoRo - offene Stellen (Ashby)",
+      "url": "https://jobs.ashbyhq.com/koro"
     }
   ],
   "token": "1af2d5"
