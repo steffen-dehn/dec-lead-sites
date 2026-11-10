@@ -1,0 +1,151 @@
+{
+  "slug": "publicis-media",
+  "firma": "Publicis Media",
+  "stand": "November 2026",
+  "analyse_titel": "Potenzial-Analyse",
+  "ci": {
+    "brand": "#1a21f5",
+    "accent": "#fb13ff",
+    "bg": "#fafafa",
+    "font": "Montserrat",
+    "font_original": "Gotham (lizenzpflichtig, ersetzt)",
+    "verified": true
+  },
+  "hero": {
+    "kicker": "Stand November 2026",
+    "title": "Drei Agenturmarken, ein gemeinsames Angebot.",
+    "intro": "Ihr verbindet gerade Media, Commerce, CRM, Content und Daten enger miteinander, mit neuen Führungsrollen und dem Anspruch, als Power of One aufzutreten. Wir haben uns angesehen, was ihr nach außen zeigt - und drei Felder gefunden, in denen sich entscheidet, ob die Zusammenarbeit so schnell wächst wie das Angebot."
+  },
+  "muster": {
+    "title": "Werte bei Publicis Media",
+    "sub": "Was ihr nach außen versprecht - und welche Bewegung dahinter steckt.",
+    "karten": [
+      {
+        "titel": "Gegenüber Kund*innen",
+        "quelle": "publicismedia.de",
+        "werte": [
+          "ROI",
+          "Move People. Move Business.",
+          "Spirit of a startup",
+          "Data, Strategy & Consulting"
+        ]
+      },
+      {
+        "titel": "Gegenüber Mitarbeiter*innen",
+        "quelle": "publicismedia.de/people-culture",
+        "werte": [
+          "One Team",
+          "Viva la différence",
+          "Respect, Passion, Ownership",
+          "Power of One"
+        ]
+      },
+      {
+        "titel": "Was eure News zeigen",
+        "quelle": "publicismedia.de/news",
+        "werte": [
+          "Connected Media",
+          "Neue Führungsrollen",
+          "Neue Unit für Content & Influencer",
+          "Alle Agenturen unter einem Dach"
+        ]
+      }
+    ],
+    "lesart": "Jede eurer Agenturmarken hat ein klares Profil und gewinnt Neugeschäft mit eigenem Anspruch. Gleichzeitig baut ihr ein gemeinsames Angebot, in dem Media, Daten, Commerce und Content ineinandergreifen sollen. Nach innen versprecht ihr One Team und Respekt für Unterschiede. Mehr als 1.100 Kolleg*innen an fünf Standorten, im Schnitt seit acht Jahren dabei, gehen diesen Umbau gerade mit.",
+    "treppe": [
+      {
+        "farbe": "ROT",
+        "label": "Starke Marken",
+        "text": "Eigenes Profil, eigener Anspruch, Spirit of a startup."
+      },
+      {
+        "farbe": "ORANGE",
+        "label": "Wachstum & Wirkung",
+        "text": "ROI, Neugeschäft und messbare Ergebnisse für Kund*innen."
+      },
+      {
+        "farbe": "BLAU",
+        "label": "Klare Rollen",
+        "text": "Führung und Entscheidungswege für eine integrierte Aufstellung."
+      },
+      {
+        "farbe": "GELB",
+        "label": "Vernetztes Angebot",
+        "text": "Disziplinen und Agenturen, die als ein Team wirken."
+      }
+    ],
+    "fokus": 2,
+    "bewegung": "Eure Bewegung geht von starken Einzelmarken über Wachstum und klare Rollen hin zu einem vernetzten Angebot. Profil und Ergebnisorientierung sind sichtbar. Der Hebel liegt dazwischen: in einem Führungsteam, das sich gerade neu sortiert, und in einer Zusammenarbeit, die über Agentur- und Disziplingrenzen hinweg trägt."
+  },
+  "handlungsfelder": [
+    {
+      "id": "fuehrungsteam",
+      "titel": "Neues Führungsteam schnell eingespielt",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "BLAU"
+      },
+      "heute": "Seit Herbst 2025 habt ihr eine ganze Reihe von Führungsrollen neu besetzt oder neu geschaffen: im Operations-Bereich, im Kund*innengeschäft der Gruppe und an der Spitze einzelner Agenturen. Neue Rollen bringen Tempo - und offene Fragen dazu, wer was entscheidet, wo sich Verantwortungen überschneiden und wie Agentur- und Gruppenebene zusammenspielen.",
+      "beleg": "Personalien auf publicismedia.de/news und publicisgroupe.de (September 2025 bis März 2026)",
+      "erster_schritt": "Leadership-Klausur mit dem erweiterten Führungsteam: Welche Entscheidungen treffen wir gemeinsam, welche bleiben in den Agenturen - und woran merken unsere Teams den Unterschied?",
+      "ergebnis_6m": "Rollen und Entscheidungswege sind geklärt und im Alltag spürbar. Teams wissen, wohin sie mit welcher Frage gehen, und Abstimmungsschleifen zwischen Agentur und Gruppe werden kürzer."
+    },
+    {
+      "id": "power-of-one",
+      "titel": "Power of One im Projektalltag",
+      "graves": {
+        "von": "ORANGE",
+        "zu": "GELB"
+      },
+      "heute": "Media, Kreation, CRM, Commerce und Production sollen enger zusammenrücken, Kund*innen ein gemeinsames Angebot erleben. Gleichzeitig hat jede Agenturmarke ein eigenes Profil und eigene Erfolge im Neugeschäft. Ob das gemeinsame Angebot trägt, entscheidet sich an den Übergängen: im Pitch, im Staffing, in der Frage, wer ein Kund*innenteam führt.",
+      "beleg": "Pressemitteilungen auf publicisgroupe.de (18. und 29. März 2026), Agenturclaims auf publicismedia.de",
+      "erster_schritt": "Schnittstellen-Workshop mit Leads aus zwei, drei Agenturen und Disziplinen an einem echten Kund*innenfall: Wo reibt es heute an den Übergängen, und was regeln wir ab morgen anders?",
+      "ergebnis_6m": "Für gemeinsame Kund*innenteams gibt es klare Spielregeln zu Führung, Staffing und Übergaben. Agenturprofile bleiben erkennbar, und gemeinsame Projekte laufen mit weniger Reibung."
+    },
+    {
+      "id": "one-team",
+      "titel": "One Team, das im Umbau trägt",
+      "graves": {
+        "von": "BLAU",
+        "zu": "GRUEN"
+      },
+      "heute": "Nach innen versprecht ihr One Team, Respekt und Vielfalt, mit vielen Angeboten rund um Entwicklung und Gesundheit. Eure Kolleg*innen sind im Schnitt seit acht Jahren dabei und kennen Publicis Media in einer anderen Aufstellung. Gerade in einem Umbau mit Effizienzziel zeigt sich, ob Werte im Alltag tragen: in Entscheidungen, im Feedback und im Umgang mit Unsicherheit.",
+      "beleg": "publicismedia.de/people-culture, Kennzahlen auf publicismedia.de, Zielbild in der Pressemitteilung vom 18. März 2026",
+      "erster_schritt": "Werte Check-up mit Mitarbeiter*innen aus verschiedenen Agenturen und Standorten: Was trägt uns heute, was brauchen wir für die neue Aufstellung, wo kippen unsere Stärken unter Druck?",
+      "ergebnis_6m": "Ihr wisst, welche Werte den Umbau tragen und wo sie unter Druck kippen. Führungskräfte haben eine gemeinsame Sprache, um Veränderungen zu erklären, und erfahrene Kolleg*innen gehen den Weg aktiv mit."
+    }
+  ],
+  "cta": {
+    "title": "Lust, das gemeinsam zu sortieren?",
+    "text": "30 Minuten, ohne Pitch-Deck: Wir schauen gemeinsam, welches Feld bei euch gerade am meisten Hebel hat.",
+    "button": "Gespräch vereinbaren",
+    "url": "https://calendly.com/steffen-dehn/30min-zoom-call",
+    "mailto": "info@dehn-consulting.com",
+    "betreff": "Publicis Media x DEC"
+  },
+  "hinweis": "Alle Inhalte sind aus öffentlich zugänglichen Daten abgeleitet (Website, News, Pressemitteilungen).",
+  "disclaimer": "Außenperspektive von DEC auf Basis öffentlicher Quellen (Stand November 2026). Keine Bewertung, sondern Hypothesen für ein Gespräch.",
+  "quellen": [
+    {
+      "titel": "publicismedia.de - Startseite",
+      "url": "https://www.publicismedia.de/"
+    },
+    {
+      "titel": "Publicis Media - People & Culture",
+      "url": "https://www.publicismedia.de/people-culture"
+    },
+    {
+      "titel": "Publicis Media - News",
+      "url": "https://www.publicismedia.de/news"
+    },
+    {
+      "titel": "Publicis Germany - Neue Führungsposition (18.03.2026)",
+      "url": "https://www.publicisgroupe.de/news/article/karin-ross-rolle-wird-erweitert/"
+    },
+    {
+      "titel": "Publicis Germany - Publicis Media stärkt Agenturführung (29.03.2026)",
+      "url": "https://www.publicisgroupe.de/news/article/publicis-media-staerkt-agenturfuehrung/"
+    }
+  ],
+  "token": "27db37"
+}
